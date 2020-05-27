@@ -276,6 +276,6 @@ class build_school_class():
 
 if __name__=='__main__':
     bs = build_school_class(apikey, db_fname, faculty_list, num_of_school)
-    #bs.build_sname_dict()
-    #bs.build_people_scopus_dict()
+    bs.build_sname_dict()
+    bs.build_people_scopus_dict()
 
