@@ -1,0 +1,102 @@
+﻿School Name                                                                       Median_high_impact_journals_from1900_to_2019 
+California Institute of Technology                                                8.5   
+Stanford University                                                               8     
+Harvard University                                                                10.0  
+Massachusetts Institute of Technology                                             8     
+University of California, Berkeley                                                7     
+The Scripps Research Institute                                                    8     
+University of Illinois at Urbana-Champaign                                        6     
+Northwestern University                                                           7     
+Columbia University in the City of New York                                       6     
+Princeton University                                                              6     
+Cornell University                                                                2     
+Yale University                                                                   5     
+University of Wisconsin Madison                                                   2     
+University of Chicago                                                             5.5   
+University of Texas at Austin                                                     3     
+University of North Carolina at Chapel Hill                                       2     
+University of Michigan, Ann Arbor                                                 2.0   
+University of Pennsylvania                                                        3.0   
+Georgia Institute of Technology                                                   1     
+Pennsylvania State University                                                     3     
+University of California, Irvine                                                  2.0   
+University of California, San Diego                                               4.0   
+Johns Hopkins University                                                          2     
+University of Colorado at Boulder                                                 2.5   
+University of Washington, seattle                                                 1     
+University of Minnesota Twin Cities                                               1     
+Texas A and M University                                                          1     
+Purdue University                                                                 1.0   
+Ohio State University                                                             1     
+Emory University                                                                  2     
+Rice University                                                                   4     
+Duke University                                                                   2     
+University of Utah                                                                1.0   
+University of California, Santa Barbara                                           2     
+Indiana University                                                                1.0   
+University of California, Davis                                                   2     
+University of Pittsburgh                                                          1.0   
+Carnegie Mellon University                                                        2     
+Vanderbilt University                                                             0.0   
+Washington University in St. Louis                                                2.0   
+University of Maryland                                                            1     
+University of Arizona                                                             1     
+University of Florida                                                             1.0   
+Iowa State University                                                             0     
+University of Virginia                                                            1     
+University of Southern California                                                 2     
+Michigan State University                                                         1.0   
+Boston College                                                                    2.0   
+University of Rochester                                                           1.0   
+University of Massachusetts Amherst                                               1.5   
+New York University                                                               3     
+North Carolina State University                                                   0.5   
+Colorado State University                                                         1.0   
+Arizona State University                                                          2     
+Brown University                                                                  0.0   
+The University of Georgia                                                         1.0   
+Boston University                                                                 1.0   
+University of Oregon                                                              2.0   
+University of Delaware                                                            0     
+University of Notre Dame                                                          1.0   
+University of California, Riverside                                               1     
+Stony Brook University                                                            1     
+Brandeis University                                                               3.0   
+Dartmouth College                                                                 0.0   
+University of Iowa                                                                0     
+Virginia Polytechnic Institute and State University                               1     
+Florida State University                                                          1     
+Rutgers, The State University of New Jersey                                       1.0   
+Rensselaer Polytechnic Institute                                                  0     
+Case Western Reserve University                                                   0     
+Tufts University                                                                  0     
+University of Kansas                                                              0.0   
+University of Illinois at Chicago                                                 1.0   
+Wayne State University                                                            0.0   
+University of California, Santa Cruz                                              1.5   
+University at Buffalo, State university of New York                               0.5   
+Rutgers University-Newark Campus                                                  0.0   
+Oregon State University                                                           1.0   
+University of Maryland, Baltimore                                                 0     
+University of Nebraska Lincoln                                                    1     
+Northeastern University                                                           0     
+University of Connecticut                                                         1     
+Louisiana State University                                                        0     
+Kansas State University                                                           0.0   
+University of Missouri-Columbia                                                   0     
+Baylor University                                                                 0.0   
+Washington State University                                                       0     
+Auburn University                                                                 0.0   
+University of Alabama                                                             0     
+University of Houston                                                             1     
+University of South Carolina                                                      0     
+Georgetown University                                                             1     
+Colorado School of Mines                                                          1     
+Montana State University                                                          0.5   
+Clemson University                                                                0     
+Syracuse University                                                               0.0   
+Temple University                                                                 1     
+University of Tennessee, Knoxville                                                0.0   
+The Doctorate-Granting Institution of the City University of New York             1     
+Brigham Young University                                                          0     
+University of Oklahoma                                                            0     

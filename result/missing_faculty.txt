@@ -1,0 +1,135 @@
+﻿Harvard University
+Eugene	Shakhanovich
+
+Massachusetts Institute of Technology
+Daniel	Seuss
+
+University of Illinois at Urbana-Champaign
+Deborah	Leckbend
+
+Columbia University in the City of New York
+Timothy	Berkelback
+
+Princeton University
+Janette	Carey
+
+University of Michigan, Ann Arbor
+Ginger	Schultz
+
+Georgia Institute of Technology
+Robert	L.Dickson
+
+University of California, Irvine
+Sergei	Nizkorodov
+Athan	Shaka
+
+University of Colorado at Boulder
+Jose-Luiz	Jimenez
+
+University of Minnesota Twin Cities
+J.	Siepman
+
+Texas A and M University
+Janet	Bluemel
+Paul	A.Lindahl
+
+Purdue University
+Kavita	Shaw
+
+Emory University
+Jen	Heemstra
+
+Duke University
+Amanda	Hargove
+
+University of California, Santa Barbara
+Steven	Burrato
+Tom	Pettus
+Vojtech	Vleck
+
+University of Pittsburgh
+Sandy	Asher
+Lilian	Chong
+David	Waldek
+
+Vanderbilt University
+Daryl	Bornhop
+
+Washington University in St. Louis
+Julio	D’Arcy
+
+University of Maryland
+Bryan	Eichorn
+
+University of Florida
+Jon	Steward
+
+University of Southern California
+Sri	Narayan
+
+University of Rochester
+Kathyrn	Knowles
+
+Colorado State University
+Jeff	Bandar
+
+University of Oregon
+Vickie	Rose
+
+University of California, Riverside
+Pingyung	Feng
+
+Rutgers, The State University of New Jersey
+Teddy	Asefa
+
+University of Illinois at Chicago
+TJ	Augustine
+
+Wayne State University
+Yong-Hoon	Ahn
+
+Rutgers University-Newark Campus
+Philip	Huskey
+
+
+University of Nebraska Lincoln
+Lawrence	Parkhust
+
+University of Nebraska Lincoln
+Lawrence	Parkhust
+
+University of Connecticut
+Alexadru	Asandei
+
+Kansas State University
+Christin	Aikens
+Victor	Chikan
+
+Washington State University
+Cliff	Berkman
+
+Auburn University
+Monica	Raj
+
+University of South Carolina
+Mythreye	Karthikeyan
+
+Montana State University
+Ed	Dratz
+Nick	Stadie
+
+Clemson University
+Shiou-Jyn	Hwu
+
+Syracuse University
+Matthew	Maye
+
+University of Tennessee, Knoxville
+Jonathan	Brantley
+
+The Doctorate-Granting Institution of the City University of New York
+Dorothy	Eisele
+Maria	Tomargo
+
+Brigham Young University
+Wally	Paxton

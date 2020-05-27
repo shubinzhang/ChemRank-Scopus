@@ -1,0 +1,3270 @@
+California Institute of Technology
+Theodor Agapie
+Frances H. Arnold
+Jacqueline K. Barton
+Jesse L. Beauchamp
+Geoffrey A. Blake
+John F. Brady
+Judith L. Campbell
+Garnet K. Chan
+William M. Clemons
+Scott K. Cushing
+Mark E. Davis
+Peter B. Dervan
+Dennis A. Dougherty
+Richard C. Flagan
+Gregory C. Fu
+Konstantinos P. Giapis
+William A. Goddard
+Harry B. Gray
+Robert H. Grubbs
+Ryan G. Hadt
+Andre Hoelz
+Linda C. Hsieh-Wilson
+Rustem F. Ismagilov
+Julia A. Kornfield
+Nathan S. Lewis
+Rudolph A. Marcus
+Stephen L. Mayo
+Thomas F. Miller III
+Mitchio Okumura
+Alison E. Ondrus
+Carl S. Parker
+Jonas C. Peters
+Douglas C. Rees
+Sarah E. Reisman
+Maxwell J. Robb
+Kimberly A. See
+John H. Seinfeld
+Shu-ou Shan
+Mikhail G. Shapiro
+Brian M. Stoltz
+David A. Tirrell
+Zhen-Gang Wang
+Lu Wei
+Daniel P. Weitekamp
+
+Stanford University
+Carolyn R. Bertozzi
+Steven G. Boxer
+Noah Z. Burns
+Lynette Cegelski
+Christopher E. D. Chidsey
+Bianxiao Cui
+Hongjie Dai
+Laura M. K. Dassama
+Justin Du Bois
+Michael D. Fayer
+Keith O. Hodgson
+Matthew W. Kanan
+Hemamala I. Karunadasa
+Chaitan Khosla
+Eric T. Kool
+Thomas E. Markland
+Todd J. Martinez
+W. E. Moerner
+Edward I. Solomon
+T. D. P. Stack
+Barry M. Trost
+Robert M. Waymouth
+Paul A. Wender
+Yan Xia
+Richard N. Zare
+
+Harvard University
+Charles M. Lieber
+Joanna Aizenberg
+James G. Anderson
+Emily Balskus
+Theodore A. Betley
+Adam E. Cohen
+Cynthia M. Friend
+Roy G. Gordon
+Eric J. Heller
+Eric N. Jacobsen
+Daniel E. Kahne
+Frank N. Keutsch
+Brian B. Liau
+David R. Liu
+Jarad A. Mason
+Andrew G. Myers
+Kang-Kuen Ni
+Daniel G. Nocera
+Hongkun Park
+Stuart L. Schreiber
+Matthew D. Shair
+Eugene I. Shakhanovich
+Jack W. Szostak
+Gregory L. Verdine
+George M. Whitesides
+Christina M. Woo
+Xiaowei Zhuang
+
+Massachusetts Institute of Technology 
+Moungi Bawendi
+Stephen L. Buchwald
+Jianshu Cao
+Sylvia T. Ceyer
+Arup K. Chakraborty
+Christopher C. Cummins
+Rick L. Danheiser
+Mircea Dinca
+Catherine L. Drennan
+John M. Essigmann
+Robert W. Field
+Robert G. Griffin
+Mei Hong
+Barbara Imperiali
+Timothy F. Jamison
+Jeremiah A. Johnson
+Laura L. Kiessling
+Alexander M. Klibanov
+Stephen J. Lippard
+Mohammad Movassaghi
+Keith A. Nelson
+Elizabeth M. Nolan
+Bradley L. Pentelute
+Alexander T. Radosevich
+Ronald T. Raines
+Gabriela S. Schlau-Cohen
+Alex K. Shalek
+Matthew D. Shoulders
+Susan Solomon
+Daniel L. M. Seuss
+Yogesh Surendranath
+Timothy M. Swager
+Troy Van Voorhis
+Alison E. Wendlandt
+Adam P. Willard
+Bin Zhang
+
+University of California, Berkeley
+A. Paul Alivisatos
+Richard A. Andersen
+John Arnold
+D. Kwabena Bediako
+Kristie A. Boering
+Carlos J. Bustamante
+Jamie H.D. Cate
+Christopher J. Chang
+Michelle C. Chang
+Ronald C. Cohen
+Jennifer A. Doudna
+Felix R. Fischer
+Graham R. Fleming
+Matthew B. Francis
+Phillip L. Geissler
+Naomi S. Ginsberg
+Jay T. Groves
+John F. Hartwig
+Martin P. Head-Gordon
+Sung-Hou Kim
+Judith P. Klinman
+John Kuriyan
+Stephen R. Leone
+William A. Lester
+David T. Limmer
+Jeffrey R. Long
+Thomas J. Maimone
+Michael A. Marletta
+Susan Marqusee
+Richard A. Mathies
+Evan W. Miller
+William H. Miller
+Luciano G. Moretto
+Daniel M. Neumark
+Eric Neuscamman
+Daniel K. Nomura
+Eran Rabani
+Kenneth M. Raymond
+Jonathan Rittle
+Richmond Sarpong
+Richard J. Saykally
+Kevan M. Shokat
+Gabor A. Somorjai
+Angelica M. Stacy
+T. Don Tilley
+F. Dean Toste
+K. Peter C. Vollhardt
+K. Birgitta Whaley
+Evan R. Williams
+Ke Xu
+Ting Xu
+Omar M. Yaghi
+Peidong Yang
+
+The Scripps Research Institute
+Alexander Adibekian
+Phil S. Baran
+Donna G. Blackmond
+Dale L. Boger
+Kate S. Carroll
+Benjamin F. Cravatt
+Philip E. Dawson
+Tobin J. Dickerson
+Matthew D. Disney
+Keary M. Engle
+M. Reza Ghadiri
+Kim D. Janda
+Jeffery W. Kelly
+Thomas Kodadek
+Ramanarayanan Krishnamurthy
+Luke L. Lairson
+Luke J. Leman
+Richard A. Lerner
+Brian M. Paegel
+Chris G. Parker
+Roy A. Periana
+Julius Rebek
+Hans Renata
+Floyd E. Romesberg
+Peter G. Schultz
+Karl Barry Sharpless
+Ben Shen
+Ryan A. Shenvi
+Chi-Huey Wong
+Jin-Quan Yu
+Bin Zhou
+
+University of Illinois at Urbana-Champaign
+Paul V. Braun
+Martin D. Burke
+Jefferson KF Chan
+Jianjun Cheng
+Scott E. Denmark
+Alison R. Fout
+John A. Gerlt
+Andrew A. Gewirth
+Gregory S. Girolami
+Martin H.W. Gruebele
+Hee-Sun Han
+Paul J. Hergenrother
+So Hirata
+Prashant K. Jain
+Deborah E. Leckbend
+Yi Lu
+Zaida A. Luthey-Schulten
+Nancy Makri
+Liviu M. Mirica
+Douglas A. Mitchell
+Jeffrey S. Moore
+Catherine J. Murphy
+Shuming Nie
+Ralph G. Nuzzo
+Eric Oldfield
+Lisa Olshansky
+Philip W. Phillips
+Chad M. Rienstra
+Joaquin Rodriguez-Lopez
+David Sarlah
+Kenneth S. Schweizer
+Scott K. Silverman
+Jonathan V. Sweedler
+Wilfred A. van der Donk
+Renske van der Veen
+Josh Vura-Weis
+M. Christina White
+Steven C. Zimmerman
+
+Northwestern University
+Lin X. Chen
+William R. Dichtel
+Omar K. Farha
+Danna E. Freedman
+Franz M. Geiger
+Nathan C. Gianneschi
+Todd R. Gingrich
+Sossina M. Haile
+Elad Harel
+T. David Harris
+Brian M. Hoffman
+Joseph T. Hupp
+Julia A. Kalow
+Mercouri G. Kanatzidis
+Neil L. Kelleher
+Tobin J. Marks
+Thomas J. Meade
+Chad A. Mirkin
+Milan Mrksich
+SonBinh T. Nguyen
+Thomas V. O’Halloran
+Teri W. Odom
+Monica Olvera de la Cruz
+Kenneth R. Poeppelmeier
+John A. Rogers
+Amy C. Rosenzweig
+Richard D. Schaller
+George C. Schatz
+Karl A. Scheidt
+Tamar Seideman
+Toru Shiozaki
+Richard B. Silverman
+Peter C. Stair
+J. Fraser Stoddart
+Samuel I. Stupp
+Igal Szleifer
+Regan J. Thomson
+Richard P. Van Duyne
+Michael R. Wasielewski
+Emily A. Weiss
+Eric Weitz
+
+Columbia University in the City of New York
+Timothy C. Berkelback
+Bruce J. Berne
+Louis E. Brus
+Angelo Cacciuto
+Luis M. Campos
+Virginia W. Cornish
+Kenneth B. Eisenthal
+Richard A. Friesner
+Ruben L. Gonzalez
+Laura J. Kaufman
+James L. Leighton
+Ann E. McDermott
+Wei Min
+Jack R. Norton
+Colin Nuckolls
+Jonathan S. Owen
+Gerard Parkin
+David R. Reichman
+Tomislav Rovis
+Xavier Roy
+Dalibor Sames
+Neel H. Shah
+Brent R. Stockwell
+James Valentini
+Latha E. Venkataraman
+X-Y. Zhu
+
+Princeton University
+Andrew B. Bocarsly
+Roberto Car
+Janette Carey
+Brad P. Carrow
+Robert J. Cava
+Paul J. Chirik
+Abigail G. Doyle
+John T. Groves
+Michael H. Hecht
+Todd K. Hyster
+Ralph E. Kleiner
+Robert R. Knowles
+David W. C. Macmillan
+Tom W. Muir
+Joshua D. Rabinowitz
+Herschel Rabitz
+Paul J. Reider
+Gregory D. Scholes
+Leslie M. Schoop
+Jeffrey Schwartz
+Annabella Selloni
+Martin F. Semmelhack
+Mohammad R. Seyedsayamdost
+Erik J. Sorensen
+Salvatore Torquato
+Haw Yang
+
+Cornell University
+Hector D. Abruna
+Nandini Ananth
+Nozomi Ando
+Barbara A. Baird
+Jeremy M. Baskin
+Richard A. Cerione
+Peng Chen
+Geoffrey W. Coates
+David B. Collum
+Brian R. Crane
+H. Floyd Davis
+Robert A. DiStasio Jr.
+Steven Edward Ealick
+Gregory Sion Ezra
+Brett P. Fors
+Bruce Ganem
+Melissa A. Hines
+Tristan H. Lambert
+Kyle M. Lancaster
+Stephen Lee
+Hening Lin
+Song Lin
+Roger F. Loring
+John A. Marohn
+Phillip J. Milner
+Frank C. Schroeder
+Justin J. Wilson 
+Peter T. Wolczanski
+David B. Zax
+
+Yale University
+Victor S. Batista
+Gary W. Brudvig
+Robert H. Crabtree
+Jason M. Crawford
+Craig M. Crews
+Jonathan A. Ellman
+Ziad Ganim
+Sharon Hammes-Schiffer
+Stavroula K. Hatzios
+Nilay Hazari
+Seth B. Herzon
+Patrick L. Holland
+Mark A. Johnson
+William L. Jorgensen
+J. Patrick Loria
+James M. Mayer
+Scott J. Miller
+Timothy R. Newhouse
+Anna M. Pyle
+James E. Rothman
+Martin Saunders
+Alanna Schepartz
+Charles A. Schmuttenmaer
+Sarah A. Slavoff
+Dieter Soll
+David A. Speigel
+Scott A. Strobel
+Patrick H. Vaccaro
+Hailiang Wang
+Elsa C.Y. Yan
+Kurt W. Zilm
+
+University of Wisconsin Madison
+John F. Berry
+Timothy H. Bertram
+Helen E. Blackwell
+A.J. Boydston
+Thomas C. Brunold
+Andrew R. Buller
+Steven D. Burke
+Judith N. Burstyn
+Silvia Cavagnero
+Kyoung-Shin Choi
+Joshua J. Coon
+Mark D. Ediger
+Katrina T. Forest
+Daniel C. Fredrickson
+Etienne Garand
+Ying Ge
+Samuel H. Gellman
+Pupa U.P.A. Gilbert
+Jennifer E. Golden
+Randall H. Goldsmith
+ Shaoqin Gong
+Padma Gopalan
+Robert J. Hamers
+Ive Hermans
+Aaron A. Hoskins
+Song Jin
+Thomas F. Kuech
+Clark R. Landis
+Lingjun Li
+David M. Lynn
+Robert J. McMahon
+Sandro Mecozzi
+Gilbert M. Nathanson
+Joel A. Pedersen
+M. Thomas Record
+J.R. Schmidt
+Jennifer M. Schomaker
+David C. Schwartz
+Edwin L. Sibert
+Lloyd M. Smith
+Shannon S. Stahl
+Weiping Tang
+James C. Weisshaar
+Daniel J. Weix
+Zachary K. Wickens
+R. Claude Woods
+John C. Wright
+Arun Yethiraj
+Tehshik P. Yoon
+Lian Yu
+Martin T. Zanni
+
+University of Chicago
+John S. Anderson
+Timothy C. Berkelbach
+Laurie J. Butler
+Bryan C. Dickinson
+Aaron R. Dinner
+Guangbin Dong
+Greg S. Engel
+Giulia Galli
+Philippe Guyot-Sionnest
+Chuan He
+Michael D. Hopkins
+Richard F. Jordan
+Stephen B. H. Kent
+Sarah B. King
+Sergey A. Kozmin
+Yamuna Krishnan
+Ka Yee C. Lee
+Wenbin Lin
+David A. Mazziotti
+Raymond E. Moellering
+Jiwoong Park
+Joseph A. Piccirilli
+Viresh H. Rawal
+Benoit Roux
+Stuart J. Rowan
+Norbert F. Scherer
+Steven J. Sibener
+James L. Skinner
+Scott A. Snyder
+Dmitri Talapin
+B. Z. Tian
+Andrei Tokmakoff
+Suri Vaikuntanathan
+Gregory A. Voth
+Yossi Weizmann
+Luping Yu
+
+University of Texas at Austin
+Eric V. Anslyn
+Carlos R. Baiz
+Allen J. Bard
+J. Thomas Brenna
+Jennifer S. Brodbelt
+Alan Campion
+James R. Chelikowsky
+Richard M. Crooks
+Livia Schiavinato Eberlin
+Ron Elber
+Graeme A. Henkelman
+Kami L. Hull
+Simon M. Humphrey
+Brent L. Iverson
+RIchard A. Jones
+Michael J. Krische
+David A. Laude
+Hung-Wen Liu
+Dmitrii E. Makarov
+Stephen F. Martin
+Charles B. Mullins
+Zachariah A. Page
+Emily L. Que
+Sean T. Roberts
+Michael J. Rose
+Jonathan L. Sessler
+Jason B. Shear
+Dave Thirumalai
+David A. Vanden Bout
+Lauren J. Webb
+C. Grant Wilson
+
+University of North Carolina at Chapel Hill
+Erik J. Alexanian
+Nancy L. Allbritton
+Joanna M. Atkin
+Jeffrey Aube
+Max L. Berkowitz
+James F. Cahoon
+Michael T. Crimmins
+Jillian L. Dempsey
+Joseph M. DeSimone
+Jeffrey E. Dick
+Dorothy A. Erie
+Michel R. Gagne
+Gary L. Glish
+Leslie M. Hicks
+Jeffrey S. Johnson
+James W. Jorgenson
+Yosuke Kanai
+Abigail S. Knight
+David S. Lawrence
+Frank A. Leibfarth
+Bo Li
+Matthew R. Lockett
+Simon J. Meek
+Gerald J. Meyer
+Alexander J.M. Miller
+Andrew M. Moran
+David A. Nicewicz
+John M. Papanikolas
+Gary J. Pielak
+J. Michael Ramsey
+Matthew R. Redinbo
+Cynthia K. Schauer
+Mark H. Schoenfisch
+Sergei S. Sheiko
+Joseph L. Templeton
+Nancy L. Thompson
+Scott C. Warren
+Marcey L. Waters
+Kevin M. Weeks 
+Sidney M. Wilkerson-Hill
+Wei You
+
+University of Michigan, Ann Arbor
+Philip C. Andrews
+Andrew P. Ault
+Ryan C. Bailey
+Bart M. Bartlett
+Julie S. Biteen
+Joel D. Blum
+Jennifer Bridwell-Rabb
+Charles L. Brooks
+Heather R. Carlson
+Tim Cernak
+Zhan Chen
+Aaron T. Frank
+Eitan Geva
+Theodore Goodson
+Kristina Hakansson
+Sarah C. Keane
+Robert T. Kennedy
+Jinsang Kim
+Raoul Kopelman
+Markos Koutmos
+Kristin Koutmou
+Kevin J. Kubarych
+Kenichi Kuroda
+Nicolai Lehnert
+Stephen Maldonado
+Anna K. Mapp
+E.N.G. Marsh
+Brent R. Martin
+Adam J. Matzger
+C.C.L. McCrory
+Anne J. McNeil
+Mark E. Meyerhoff
+John Montgomery
+Pavel Nagorny
+Alison R.H. Narayan
+Vincent L. Pecoraro
+James E. Penner-Hahn
+Kerri A. Pratt
+Ayyalusamy Ramamoorthy
+Brandon T. Ruotolo
+Melanie S. Sanford
+Corinna S. Schindler
+Roseanne J. Sension
+David H. Sherman
+Ginger V. Schultz
+Corey R.J. Stephenson
+Nathaniel K. Szymczak
+Nils G. Walter
+Wenjing Wang
+John P. Wolfe
+Ronald W. Woodard
+Edward T. Zellers
+Dominika Zgid
+
+University of Pennsylvania
+Jessica M. Anna
+Tobias Baumgart
+Donald H. Berry
+David M. Chenoweth
+David W. Christianson
+Barry S. Cooperman
+William P. Dailey
+Ivan J. Dmochowski
+Zahra Fakhraai
+Joseph S. Francisco
+Feng Gai
+Benjamin A. Garcia
+Karen I. Goldberg
+Madeleine M. Joullie
+Cherie R. Kagan
+Marisa C. Kozlowski
+Marsha I. Lester
+Andrea J. Liu
+Ponzy Lu
+Ronen Marmorstein
+Megan L. Matthews
+Daniel J. Mindiola
+Gary A. Molander
+Christopher B. Murray
+Abraham Nitzan
+Virgil Percec
+E. James Petersson
+Andrew M. Rappe
+Elizabeth Rhoades
+Jeffery G. Saven
+Eric J. Schelter
+Emmanuel Skordalakes
+Amos B. Smith
+Joseph E. Subotnik
+Neil C. Tomson
+Sergei A. Vinogradov
+Patrick J. Walsh
+Jeffrey D. Winkler
+
+Georgia Institute of Technology
+Vinayak Agarwal
+Bridgette A. Barry
+Jean-Luc Bredas
+Marcus T. Cicerone
+David M. Collard
+Robert M. L.Dickson
+Mostafa El-Sayed
+Christoph J. Fahrni
+Facundo M. Fernandez
+M.G. Finn
+Stefan France
+Neha Garg
+Will R. Gutekunst
+Nicholas V. Hud
+Wendy L. Kelly
+Julia Kubanek
+Henry S. La Pierre
+Raquel L. Lieberman
+Seth R. Marder
+Jesse G. McDaniel
+Thomas M. Orlando
+Adegboyega K. Oyelere
+Pamela Peralta-Yahya
+Joseph W. Perry
+Amit R. Reddi
+John R. Reynolds
+Paul S. Russo
+Joseph P. Sadighi
+Ingeborg Schmidt-Krey
+David Sherrill
+Carlos Silva
+Jake Soper
+Amanda Stockton
+Angus P. Wilkinson
+Loren D. Williams
+Ronghu Wu
+Younan Xia
+Z. John Zhang
+
+Pennsylvania State University
+Harry R. Allcock
+Igor S. Aronson
+John B. Asbury
+John V. Badding
+Stephen J. Benkovic
+Philip C. Bevilacqua
+Amie K. Boal
+David D. Boehr
+J. Martin Bollinger
+Squire J. Booker
+Joseph A. Cotruvo
+Paul S. Cremer
+Vincent H. Crespi
+Elizabeth A. Elacqua
+Miriam A. Freedman
+Raymond L. Funk
+Ramesh Giri
+Mark Hedglin
+Lasse Jensen
+Christine D. Keating
+Kenneth L. Knappenberger
+Gerald Knizia
+Carsten Krebs
+Benjamin J. Lear
+Tae-Hee Lee
+Thomas E. Mallouk
+Mark Maroncelli
+Przemyslaw Maslak
+Eric D. Nacsa
+William G. Noid
+Edward P. O’Brien
+Raymond E. Schaak
+Ayusman Sen
+Scott A . Showalter
+Alexey Silakov
+Steven M. Weinreb
+Nicholas Winograd
+Lauren D. Zarzar
+Xin Zhang
+
+University of California, Irvine
+Ioan Andricioaei
+Vartkess A. Apkarian
+Shane Ardo
+Elizabeth N. Bess
+Donald R. Blake
+Suzanne A. Blum
+Andrew S. Borovik
+Kieron Burke
+Annmarie G. Carlton
+Robert M. Corn
+Vy M. Dong
+William J. Evans
+Barbara J. Finlayson-Pitts
+Fillmore Freeman
+Filipp U. Furche
+Nien-Hui Ge
+Michael T. Green
+Zhibin Guan
+John C. Hemminger
+Alan F. Heyduk
+Kenneth C. Janda
+Elizabeth R. Jarvo
+Matthew D. Law
+Vladimir A. Mandelshtam
+Craig C. Martens
+Rachel W. Martin
+Shaul Mukamel
+Craig Murray
+Sergei A. Nizkorodov
+James S. Nowick
+Larry E. Overman
+Joseph P. Patterson
+Reginald M. Penner
+Eric O. Potma
+Jennifer A. Prescher
+Sergey V. Pronin
+Scott D. Rychnovsky
+Athan J. Shaka
+Kenneth J. Shea
+Manabu Shiraiwa
+James N. Smith
+Douglas J. Tobias
+David L. Van Vranken
+Christopher D. Vanderwal
+Gregory A. Weiss
+Jenny Y. Yang
+
+University of California, San Diego
+Rommie E. Amaro
+Guy Bertrand
+Michael D. Burkart
+Seth M. Cohen
+Robert E. Continetti
+John E. Crowell
+Galia T. Debelouchina
+Edward A. Dennis
+Lalit Deshmukh
+Neal K. Devaraj
+Jack E. Dixon
+Daniel J. Donoghue
+Joshua S. Figueroa
+Michael Galperin
+Gourisankar Ghosh
+Partho Ghosh
+Kamil Godula
+Vicki H. Grassian
+Thomas Hermann
+Mark A. Herzik
+Patricia A. Jennings
+Simpson Joseph
+Judy E. Kim 
+Elizabeth A. Komives
+Alexis A. Komor
+Clifford P. Kubiak
+Andrew Kummel
+Katja Lindenberg
+J. Andrew McCammon
+Colleen A. McHugh
+Tatiana V. Mishanina
+Mario J. Molina
+Tadeusz F. Molinski
+Ullrich F. Muller
+Joseph M. O’Connor
+Stanley J. Opella
+Francesco Paesani
+Kimberly A. Prather
+Jeffrey D. Rinehart
+Michael J. Sailor 
+Alina M. Schimpf
+Valerie A. Schmidt
+Amitabha Sinha
+Jonathan H. Slade
+Michael Tauber
+Susan S. Taylor
+Akif Tezcan
+Emmanuel A. Theodorakis
+Mark H. Thiemens
+Navtej Toor
+Yitzhak Tor
+Wei Wang
+John H. Weare
+Wei Xiong
+Jerry Yang
+Mark A. Young
+Joel Yuen-Zhou
+Brian M. Zid
+
+Johns Hopkins University
+Kit Hansell Bowen
+Arthur E. Bragg
+Lan Cheng
+Paul J. Dagdigian
+D. Howard Fairbrother
+Stephen D. Fried
+David P. Goldberg
+Marc M. Greenberg
+Rigoberto Hernandez
+Kenneth D. Karlin
+Thomas J. Kempa
+Rebekka S. Klausen
+Thomas Lectka
+Tyrel M. McQueen
+Steven E. Rokita
+V. Sara Thoi
+Joel R. Tolman
+John P. Toscano
+J. D. Tovar
+Craig A. Townsend
+David R. Yarkony
+
+University of Colorado at Boulder
+Eleanor C. Brown
+Tanja Cuk
+Niels H. Damrauer
+Gordana Dukovic
+Joel D. Eaves
+Steven M. George
+Douglas L. Gin
+James T. Hynes
+Jose-Luiz Jimenez
+David M. Jonas
+Carl Lineberger
+Oana R. Luca
+Michael P. Marshak
+Joseph Michl
+Tarek Sammakia
+Sandeep Sharma
+Robert E. Sievers
+Rex T. Skodje
+Margaret A. Tolbert
+Veronica Vaida
+Rainer Volkamer
+David M. Walba
+Maciej A. Walczak
+Xiang Wang
+J. Mathias Weber
+Wei Zhang
+Paul J. Ziemann
+
+University of Washington, seattle
+Matthew F. Bush
+Charles T. Campbell
+Champak Chatterjee
+Daniel T. Chiu
+Brandi M. Cossairt
+Gary P. Drobny
+Dan Fu
+Daniel R. Gamelin
+Michael H. Gelb
+David S. Ginger
+Michael D. Heinekey
+Paul B. Hopkins
+Samson A. Jenekhe
+Sarah L Keller
+Munira Khalil
+Julia A. Kovacs
+Gojko Lalic
+Xiaosong Li
+Lutz Maibaum
+Dustin J. Maly
+David J. Masiello
+Anne B. McCoy
+Forrest E. Michael
+Alshakim Nelson
+Pradipsinh K. Rathod
+Philip J. Reid
+Bruce H. Robinson
+Tomikazu Sasaki
+Cody W. Schlenker
+Thomas G. Spiro
+Stefan Stoll
+Robert E. Synovec
+Ashleigh B. Theberge
+Frantisek Turecek
+Gabriele Varani
+Joshua C. Vaughan
+Alexandra Velian
+Jesse G. Zalatan
+Bo Zhang
+
+University of Minnesota Twin Cities
+Edgar A. Arriaga
+Kyle C. Bantz
+George Barany
+Ambika Bhagi-Damodaran
+David A. Blank
+Michael T. Bowser
+Philippe Buhlmann
+Erin E. Carlson
+Peter W. Carr
+Christopher J. Cramer
+Mark D. Distefano
+Christopher J. Douglas
+John E. Ellis
+Renee R. Frontiera
+Laura Gagliardi
+Jiali Gao
+Wayne L. Gladfelter
+Jason D. Goodpaster
+Christy L. Haynes
+Marc A. Hillmyer
+Thomas R. Hoye
+James E. Johns
+Steven R. Kass
+Doreen G. Leopold
+Kenneth R. Leopold
+Timothy P. Lodge
+Connie C. Lu
+Kent R. Mann
+Aaron M. Massari
+R. Lee Penn
+Valerie C. Pierre
+William C.K. Pomerantz
+Lawrence Que
+Nicholas J. Race
+Theresa M. Reineke
+J. Ilja Siepman
+Andreas Stein
+Ian A. Tonks
+Joseph J. Topczewski
+Donald G. Truhlar
+
+Texas A and M University
+James D. Batteas
+Kevin Burgess
+Kim R. Dunbar
+Sarbajit Banerjee
+David P. Barondeau
+Tadgh Begley
+David E. Bergbreiter
+Janet Bluemel
+Abraham Clearfield
+Donald J. Darensbourg
+Marcetta Y. Darensbourg
+Lei Fang
+Carol A. Fierke
+Charles M. Folden III
+Francois P. Gabbai
+John A. Gladysz
+Michael B. Hall
+Christian Hilty
+Arthur Laganowsky
+Paul A.Lindahl
+Wenshe R. Liu
+Quentin Michaudel
+Michael Nippe
+Simon W. North
+Oleg V. Ozerov
+Timothy Hughbanks
+Jaan Laane
+David C. Powers
+Frank M. Raushel
+Michael P. Rosynek
+David H. Russell
+Emile A. Schweikert
+Jonathan T. Sczepanski
+Matthew Sheldon
+Daniel A. Singleton
+Dong Hee Son
+Coran M.H. Watanabe
+Karen L. Wooley
+Xin Yan
+Sherry Yennello
+Hongcai Zhou
+
+Purdue University
+Abram J. Axelrod
+Suzanne C. Bart
+Dor Ben-Amotz
+Jean Chmielewski
+Gaurav Chopra
+Shelley A. Claridge
+R. Graham Cooks
+M.J. Dai
+Chittaranjan Das
+Arun K. Ghosh
+Christine A Hrycyna
+Libai Huang
+Sabre Kais
+Hilkka I. Kenttamaa
+Peter T. Kissinger
+Alexander Laskin
+Julia Laskin
+Christina W. Li
+Mark A. Lipton
+Philip S. Low
+Angeline M. Lyon
+Chengde Mao
+Scott A. McLuckey
+Jianguo Mei
+Ei-ichi Negishi
+Elizabeth I. Parkinson
+P.V. Ramachandran
+Tong Ren
+Kavita Shaw
+Garth J. Simpson
+Herman O. Sintim
+Nikolai R. Skrynnikov
+Lyudmila Slipchenko
+Mathew Tantama
+W. A. Tao
+Corey M. Thompson
+David H. Thompson
+Christopher Uyeda
+Adam Wasserman
+Alexander Wei
+Paul G. Wenthold
+Jonathan J. Wilker
+Mary J. Wirth
+
+Ohio State University
+Heather C. Allen
+Jovica D. Badjic
+Abraham K. Badu-Tawiah
+L. Robert Baker
+Dennis Bong
+Caroline A. Breitenberger
+Anne C. Co
+James V. Coe
+James A. Cowan
+Ross E. Dalbey
+Craig J. Forsyth
+Mark P. Foster
+Joshua E. Goldberger
+Venkat Gopalan
+Philip J. Grandinetti
+Terry L. Gustafson
+Christopher M. Hadad
+John M. Herbert
+Amanda B. Hummon
+Jane E. Jackman
+Christopher P. Jaroniec
+Bern Kohler
+Dmitri Kudryashov
+Steffen Lindert
+Thomas J. Magliery
+Psaras L. McGrier
+Karin Musier-Forsyth
+David A. Nagib
+Kotaro Nakanishi
+Susan V. Olesik
+Jennifer J. Ottesen
+Jon R. Parquette
+Dehua Pei
+T.V. RajanBabu
+Zachary D. Schultz
+Christo S. Sevov
+Hannah S. Shafaat
+Sherwin J. Singer
+Alexander Yu Sokolov
+Marcos Sotomayor
+Richard P. Swenson
+Christine M Thomas
+Claudia Turro
+Casey R. Wade
+Patrick M. Woodward
+Yiying Wu
+Zhengrong Wu
+Barbara E. Wyslouzil
+Vicki H. Wysocki
+Shiyu Zhang
+Dongping Zhong
+
+Emory University
+Simon B. Blakey
+Joel M. Bowman
+Vincent P. Conticello
+Huw M.L. Davies
+R. Brian Dyer
+Francesco A. Evangelista
+Karl S. Hagen
+Michael C. Heaven
+Jen M. Heemstra
+Craig L. Hill
+Nathan T. Jui
+James T. Kindt
+Tianquan Lian
+Lanny S. Liebeskind
+Dennis C. Liotta
+Stefan Lutz
+David G. Lynn
+Frank E. McDonald
+Khalid Salaita
+Emily E. Weinert
+Susanna Widicus Weaver
+William M. Wuest
+
+Rice University
+Zachary T. Ball
+Cecilia Clementi
+Paul S. Engel
+Jeffrey D. Hartgerink
+John S. Hutchinson
+Matthew R. Jones
+Anatoly B. Kolomeisky
+Laszlo Kurti
+Christy F. Landes
+Stephan Link
+Angel A. Marti
+Seiichi P.T. Matsuda
+K. C. Nicolaou
+Peter J. Rossky
+Gustavo E. Scuseria
+James M. Tour
+R. Bruce Weisman
+Julian G. West
+Kenton H. Whitmire
+Lon J. Wilson
+Peter G. Wolynes
+Han Xiao
+Eugene R. Zubarev
+
+Duke University
+Valerie S. Ashby
+Steven W. Baldwin
+David N. Beratan
+Patrick Charbonneau
+Stephen L. Craig
+Emily R. Derbyshire
+Michael C. Fitzgerald
+Aaron D. Franklin
+Katherine J. Franz
+Amanda E. Hargove
+Jiyong Hong
+Jie Liu
+Richard A. MacPhail
+Steven Malcolmson
+Dewey G. McCafferty
+Agostino Migliore
+Jennifer L. Roizen
+Michael Rubinstein
+Michael J. Therien
+Tuan Vo-Dinh
+Qiu Wang
+Warren S. Warren
+Kevin D. Welsher
+Ross A. Widenhoefer
+Benjamin J. Wiley
+Weitao Yang
+
+University of Utah
+Scott L. Anderson
+Peter B. Armentrout
+Vahe Bandarian
+Bethany Buck-Koehntop
+Cynthia J. Burrows
+John C. Conboy
+Richard D. Ernst
+Michael Grunwald
+Ming C. Hammond
+Joel H. Harris
+Matthew T. Kieber-Emmons
+Ryan E. Looper
+Janis Louie
+Joel S. Miller
+Shelley D. Minteer
+Valeria Molinero
+Michael D. Morse
+Rodrigo Noriega
+Marc D. Porter
+Aaron W. Puri
+Jon D. Rainier
+Thomas G. Richmond
+Andrew G. Roberts
+Caroline T. Saouma
+Jennifer S. Shumaker-Parry
+Matthew S. Sigman
+Peter J. Stang
+Ryan P. Steele
+Thanh N. Truong
+Henry S. White
+Luisa Whittaker-Brooks
+Ilya Zharov
+
+University of California, Santa Barbara
+Mahdi M. Abu-Omar
+Donald H. Aue
+Guillermo C. Bazan
+Michael T. Bowers
+Frank L. Brown
+Steven K. Burrato
+Alison Butler
+Irene A. Chen
+Frederick W. Dahlquist
+Mattanjah S. De Vries
+Peter C. Ford
+Song-I Han
+Craig J. Hawker
+Trevor W. Hayton
+Luc Jaeger
+Bernard Kirtman
+Bruce H. Lipshutz
+Gabriel Menard
+Horia Metiu
+Martin Moskovits
+Thuc-Quyen Nguyen
+Tom R. Pettus
+Kevin W. Plaxco
+Javier Read de Alaniz
+Norbert O. Reich
+Susannah L. Scott
+Lior Sepunaru
+Ram Seshadri
+Joan-Emma Shea
+Galen D. Stucky
+Vojtech Vleck
+J. Herbert Waite
+Armen Zakarian
+Liming Zhang
+
+Indiana University
+Lane A. Baker
+M. Kevin Brown
+Kenneth G. Caulton
+David E. Clemmer
+Silas P. Cook
+Charles E. Dann
+Romualdo T. deSouza
+Richard D. DiMarchi
+Trevor Douglas
+Bogdan Dragnea
+Amar H. Flood
+David P. Giedroc
+Gary M. Hieftje
+Ronald A. Hites
+Srinivasan S. Iyengar
+Stephen C. Jacobsen
+Caroline Chick Jarrold
+Martin F. Jarrold
+Jared C. Lewis
+Liang-shi Li 
+Martha G. Oakley
+Peter J. Ortoleva
+Dennis G. Peters
+Nicola L.B. Pohl
+Krishnan Raghavachari
+James P. Reilly
+Jonathan P. Schlebach
+Sara E. Skrabalak
+Jeremy M. Smith
+Thomas N. Snaddon
+Steven L. Tait
+Megan C. Thielges
+Michael vanNieuwenhze
+Theodore S. Widlanski
+David R. Williams
+Xingchen Ye
+Yan Yu
+Jeffrey M. Zaleski
+
+University of California, Davis
+James B. Ames
+Shota Atsumi
+Matthew T. Augustine
+Alan L. Balch
+Peter A. Beal
+Louise A. Berben
+R. David Britt
+William H. Casey
+Xi Chen
+Kyle N. Crabtree
+Sheila S. David
+Davide Donadio
+Andrew J. Fisher
+Annaliese K. Franz
+Jacquelyn Gervay-Hague
+David B. Goodin
+Ting Guo
+Marie C. Heffern
+Susan M. Kauzlarich
+Kristie J. Koski
+Mark J. Kurth
+Donald P. Land
+Delmar S. Larsen
+Carlito B. Lebrilla
+Gang-yu Liu
+Mark Mascal
+C. William McCurdy
+Dylan T. Murray
+Alexandra Navrotsky
+Cheuk-Yiu Ng
+David E. Olson
+Frank E. Osterloh
+Philip P. Power
+Neil Schore
+Jared T. Shaw
+Justin B. Siegel
+Alexei A. Stuchebrukhov
+Dean J. Tantillo
+Michael D. Toney
+Jesus M. Velazquez
+Lee-Ping Wang
+
+University of Pittsburgh
+Shigeru Amemiya
+Sandy A. Asher
+Jeremy Berg
+Kay M. Brummond
+W. Seth Childers
+Lilian T. Chong
+Rob D. Coalson
+N. John Cooper
+Dennis P. Curran
+Alexander Deiters
+Paul E. Floreancig
+Sean Garrett-Roe
+Joseph J. Grabowski
+Raul Hernandez Sanchez
+W. Seth Horne
+Geoffrey R. Hutchison
+Kabirul Islam
+Kenneth D. Jordan
+Valerian E. Kagan
+Kazunori Koide
+Jennifer E. Laaser
+Daniel S. Lambrecht
+Sanford H. Leuba
+Peng Liu
+Haitao Liu
+Xinyu Liu
+Tara Y. Meyer
+Adrian C. Michael
+Jill E. Millstone
+Scott G. Nelson
+Hrvoje Petek
+Nathaniel L. Rosi
+Sunil Saxena
+Alexander Star
+David H. Waldek
+Y.-M. Wang
+Stephen G. Weber
+Craig S. Wilcox
+Peter Wipf
+
+Carnegie Mellon University
+Catalina Achim
+Bruce A. Armitage
+Stefan Bernhard
+Marcel P. Bruchez
+Terrence J. Collins
+Subha R. Das
+Neil M. Donahue
+Yisong Guo
+Michael P. Hendrich
+Rongchao Jin
+Hyung J. Kim
+Tomasz Kowalewski
+Maria G. Kurnikova
+Danith H. Ly
+Krzysztof Matyjaszewski
+Kevin J.T. Noonan
+Linda A. Peteanu
+Ryan C. Sullivan
+Stefanie A. Sydlik
+Newell R. Washburn
+David J. Yaron
+
+Vanderbilt University
+Brian O. Bachman
+Daryl J. Bornhop
+Lauren E. Buchanan
+David E. Cliffel
+Timothy P. Hanusa
+B. A. Hess
+Jeffrey N. Johnston
+Craig W. Lindsley
+Terry P. Lybrand
+Janet E. Macdonald
+Lawrence J. Marnett
+John A. McLean
+Jens Meiler
+Lars Plate
+Prasad L. Polavarapu
+Carmelo J. Rizzo
+Rena A. S. Robinson
+Sandra J. Rosenthal
+Nathan D. Schley
+Michael P. Stone
+Gary A. Sulikowski
+Steven D. Townsend
+David W. Wright
+
+Washington University in St. Louis
+William E. Buhro
+Alexander B. Barnes
+Jonathan C. Barnes
+Vladimir B. Birman
+Robert E. Blankenship
+John R. Bleeke
+Julio M. D’Arcy
+Joseph A. Fournier
+Peter P. Gaspar 
+Michael L. Gross
+Sophia E. Hayes
+Dewey Holten
+Meredith E. Jackrel
+Richard A. Loomis
+Ronald Lovett 
+Richard Mabbs
+Kevin D. Moeller
+Gary J. Patti
+Jay W. Ponder
+Bryce Sadtler
+Demetrios G. Sarantites 
+Lee G. Sobotka
+John-Stephen Taylor
+William B. Tolman
+Timothy A. Wencewicz
+
+University of Maryland
+Millard H. Alexander
+Dorothy Beckett
+Neil V. Blough
+Jeffery T. Davis
+Kwaku T. Dayie
+Philip DeShong
+Bryan Eichorn
+Daniel E. Falvey
+John T. Fourkas
+David Fushman
+Osvaldo Gutierrez
+Osnat Herzberg
+Lyle Isaacs
+Christopher Jarzynski
+Douglas A. Julin
+Jason D. Kahn
+Nicole A. LaRonde
+Cheng S. Lee
+Jinwoo Lee
+Sang Bok Lee
+Alice C. Mignerey
+Amy S. Mullin
+Peter Nemes
+John M. Ondov
+John Orban
+Garegin A. Papoian
+Paul J. Paukstelis
+Myles B. Poulin
+Janice E. Reutt-Robey
+Efrain E. Rodriguez
+Ross J. Salawitch
+Lawrence R. Sita
+Pratyush Tiwary
+Andrei N. Vedernikov
+Chunsheng Wang
+Lai-Xi Wang
+YuHuang Wang
+John D. Weeks
+
+University of Arizona
+Ludwik Adamowicz
+Neal R. Armstrong
+Craig A. Aspinwall
+Michael F. Brown
+Pascale G. Charest
+Matthew H. J. Cordes
+M. Bonner Denton
+Carol L. Dieckmann
+Indraneel Ghosh
+Thomas L. Gianetti
+M. Leandro Heien
+John G. Hildebrand
+N.C. Horton
+Vanessa M. Huxter
+John C. Jewett
+Stephen G. Kukolich
+Nam Y. Lee
+Dennis L. Lichtenberger
+Michael T. Marty
+Eugene A. Mash
+Dominic V. McGrath
+Roger L. Miesfeld
+Katrina M. Miranda
+William R. Montfort
+Jon T. Njardarson
+Rebecca Page 
+Jeanne E. Pemberton
+Wolfgang Peti
+Jeffrey Pyun
+S. Scott Saavedra
+Andrei Sanov
+Jacob C. Schwartz
+Steven D. Schwartz
+Vicente Talanquer
+Marc E. Tischler
+Thomas M. Tomasiak
+Elisa Tomat
+Jeong-Yeol Yoon
+Lucy M. Ziurys
+
+University of Florida
+Alexander Angerhofer
+Aaron Aponick
+Rodney J. Bartlett
+John A. Bowden
+Clifford R. Bowers
+Philip J. Brucat
+Steven D. Bruner
+Rebecca A. Butcher
+Y. Charles Cao
+Ronald K. Castellano
+George Christou
+Coray M. Colina
+Matthew T. Eddy
+Gail E. Fanucci
+Alexander J. Grenning
+Zhongwu Guo
+Michael E. Harris
+Nicole A. Horenstein
+Valeria D. Kleiman
+Charles R. Martin
+Lisa McElwee-White
+Stephen A. Miller
+Leslie J. Murray
+Alberto Perez
+Nicolas C. Polfer
+Boone M. Prentice
+David E. Richardson
+Adrian E. Roitberg
+Jeffrey D. Rudolf
+Daniel A. Savin
+Daniel Seidel
+John F. Stanton
+Jon D. Steward
+Brent S. Sumerlin
+Daniel R. Talham
+Weihong Tan
+Anna Brajter Toth
+Adam S. Veige
+Kenneth B. Wagener
+W. David Wei
+Richard A. Yost
+
+Iowa State University
+Robbyn K. Anand
+Jared L. Anderson
+Mark S. Gordon
+W. Y. Huang
+William S. Jenks
+Kirill Kovnir    	
+George A. Kraus 	
+Young Jin Lee 	
+Qisheng Lin    	
+Gordon J. Miller	
+Jacob W. Petrich 	
+Davit A. Potoyan	
+Marek Pruski 	
+Aaron J. Rossini	
+Aaron D. Sadow 	
+Igor I. Slowing   	
+Emily A. Smith    	
+Xueyu Song    	
+Levi M. Stanley   	
+Patricia A. Thiel  	
+Brett VanVeller 
+Javier Vela     	
+Vincenzo Venditti       	
+Theresa L. Windus          	
+Arthur H. Winter	
+Julia V. Zaikina   	
+Yan Zhao
+
+University of Virginia
+H. W. Ai
+John H. Bushweller
+David S. Cafiso
+L. Ilsedore Cleeves
+Linda Columbus
+Kateri H. DuBay
+Sergei A. Egorov
+Cassandra L. Fraser
+Andreas Gahlmann
+Robin T. Garrod
+Robert J. Gilliard Jr.
+Charles M. Grisham
+T. Brent Gunnoe
+W. Dean Harman
+Ian Harrison
+Eric Herbst
+Michael K. Hilinski
+Ku-Lung Hsu
+Donald F. Hunt
+James P. Landers
+John S. Lazo
+Kevin K. Lehmann
+Charles W. Machan
+Brooks H. Pate
+Rebecca R. Pompano
+Lin Pu
+Nathan S. Swami
+B. Jill Venton
+Sen Zhang
+
+University of Southern California
+Alexander V. Benderskii
+Stephen E. Bradforth
+Richard L. Brutchey
+Vadim Cherezov
+Jahan M. Dawlaty
+Megan E. Fieser
+Valery V. Fokin
+James F. Haw
+Michael S. Inkpen
+Kyung W. Jung
+Anna I. Krylov
+Daniel A. Lidar
+Chi H. Mak
+Smaranda C. Marinescu
+Charles E. McKenna
+Brent C. Melot
+Sri R. Narayan
+Nicos A. Petasis
+G. K. Surya Prakash
+Matthew R. Pratt
+Oleg V. Prezhdo
+Peter Z. Qin
+Hanna Reisler
+Richard W. Roberts
+Lawrence A. Singer
+Raymond C. Stevens
+Susumu Takahashi
+Barry C. Thompson
+Mark E. Thompson
+Andrey F. Vilesov
+Arieh Warshel
+Travis J. Williams
+Curt Wittig
+Chao Zhang
+
+Michigan State University
+Remi Beaulac
+Warren F. Beck
+Gary J. Blanchard
+Babak Borhan
+Marcos Dantus
+Selvan Demir
+Karen M. Draths
+John W. Frost
+James H. Geiger
+Thomas W. Hamann
+Heedeok Hong
+Jian Hu
+Xuefei Huang
+Paul M. Hunt
+Katharine C. Hunt
+James E. Jackson
+Xiangshu Jin
+A. Daniel Jones
+R. James Kirkpatrick
+Kin Sing Stephen Lee
+Benjamin G. Levine
+Sean N. Liddick
+Robert E. Maleczka
+Paul F. Mantica
+John L. McCracken
+James K. McCusker
+Kenneth M. Merz
+David J. Morrissey
+Aaron L. Odom
+Piotr Piecuch
+Denis A. Proshlyakov
+Gregory W. Severin
+Milton R. Smith
+Liangliang Sun
+Greg M. Swain
+Jetze J. Tepe
+Kevin D. Walker
+David P. Weliky
+Angela K. Wilson
+William D. Wulff
+
+Boston College
+Jeffery A. Byers
+Amir H. Hoveyda
+T. Ross Kelly
+Shih-Yuan Liu
+James P. Morken
+Marc L. Snapper
+Masayuki Wasa
+X. Peter Zhang
+Abhishek Chatterjee
+Jianmin Gao
+Jia Niu
+Eranthie Weerapana
+Paul Davidovits
+Udayan Mohanty
+Chia-Kuang Tsung
+Matthias Waegele
+Dunwei Wang
+William H. Armstrong
+
+University of Rochester
+Robert K. Boeckman, Jr.
+Kara L. Bren
+Joseph P. Dinnocenzo
+Rudi Fasan
+Ignacio Franco
+Alison J. Frontier
+Pengfei Huo
+William D. Jones
+C. Rose Kennedy
+Kathyrn E. Knowles
+Todd D. Krauss
+Ellen M. Matson
+David W. McCamant
+Michael L. Neidig
+Bradley L. Nilsson
+Shauna M. Paradine
+Lewis Rothberg
+Wolf-Udo Schroder
+Douglas H. Turner
+
+University of Massachusetts Amherst
+Trisha L. Andrew
+Scott M. Auerbach
+Michael D. Barnes
+Patricia A. Bianconi
+Jianhan Chen
+Min Chen
+Michelle E. Farkas
+Lila M. Gierasch
+Jeanne A. Hardy
+Bret Jackson
+Igor A. Kaltashov
+Kevin R. Kittilstved
+Michael Knapp
+Craig T. Martin
+Ricardo B. Metz
+Vincent M. Rotello
+Eric R. Strieter
+S. Thai Thayumanavan
+Lynmarie K. Thompson
+Richard W. Vachet
+Dhandapani Venkataraman
+Mingxu You
+
+New York University
+Paramjit S. Arora
+Zlatko Bacic
+Daniela Buccella
+James W. Canary
+Tianning Diao
+Nicholas E. Geacintov
+Glen M. Hocky
+Alexej Jerschow
+Bart Kahr
+Kent Kirshenbaum
+Tania J. Lupoli
+Lara K. Mahal
+Stefano Sacanna
+Tamar Schlick
+Nadrian C. Seeman
+Nathaniel J. Traaseth
+Dirk J. Trauner
+Mark E. Tuckerman
+Daniel B. Turner
+Marc A. Walters
+Michael D. Ward
+Marcus Weck
+Keith A. Woerpel
+John Z. H. Zhang
+Yingkai Zhang
+
+North Carolina State University
+Erin S. Baker
+Edmond F. Bowden
+Felix Castellano
+Wei-Chen Chang
+Daniel L. Comins
+Denis Fourches
+Stefan Franzen
+Reza A. Ghiladi
+Christopher B. Gorman
+Elon A. Ison 
+Elena Jakubikova
+Vincent N.G. Lindsay
+Jonathan S. Lindsey
+Paul A. Maggard
+James D. Martin
+David C. Muddiman
+Alexander A. Nevzorov
+Maria T. Oliver-Hoyo
+Joshua G. Pierce
+Caroline Proulx
+David A. Shultz
+Alex I. Smirnov
+Tatyana Smirnova
+Leslie A. Sombers
+Thomas Theis
+Gufeng Wang
+Myung-Hwan Whangbo
+Gavin J. Williams
+
+Colorado State University
+C. J. Ackerson
+Jeff S. Bandar
+B. George Barisas
+Thomas Borch
+Eugene Y.-X. Chen
+Jean K. Chung
+Debbie C. Crans
+Delphine K. Farmer
+Richard G. Finke
+Ellen R. Fisher
+Charles S. Henry
+Alan J. Kennan
+Amber T. Krummel
+Nancy E. Levinger
+Martin Mccullagh
+Andrew McNally
+Garret M. Miyake
+James R. Neilson
+Robert S. Paton
+Amy L. Prieto
+Anthony K. Rappe
+A. R. Ravishankara
+Melissa M. Reynolds
+Justin B. Sambur
+Yian Shi
+Matthew P. Shores
+Steven H. Strauss
+Grzegorz Szamel
+Alan Van Orden
+Robert M. Williams
+Joseph M. Zadrozny
+
+Arizona State University
+James P. Allen
+Ariel D. Anbar
+C. Austen Angell
+Christina S. Birkel
+Chad R. Borges
+Peter R. Buseck
+Daniel A. Buttry
+Ray W. Carpenter
+J.J.-L. Chen
+Po-Lin Chiu
+Andrew V.G. Chizmeshya
+Petra Fromme
+Giovanna Ghirlanda
+Ian R. Gould
+Alexander A. Green
+Jia Guo
+Hilairy E. Hartnett
+Mark A. Hayes
+Sidney M. Hecht
+Pierre Herckes
+Matthias Heyden
+Anne K. Jones
+John Kouvetakis
+Joshua LaBaer
+Marcia Levitus
+Stuart M. Lindsay
+Yan Liu
+Wei Liu
+Yuval Mazor
+Jeremy H. Mills
+Ana L. Moore
+Thomas A. Moore
+Gary F. Moore
+Vladimiro Mujica
+George R. Pettit
+William T. Petuskey
+Steve Presse
+Kevin E. Redding
+Ranko Richert
+Alexandra Ros
+Scott G. Sayres
+D.-K. Seo
+Everett L. Shock
+Abhishek Singharoy
+Timothy C. Steimle
+George Stephanopoulos
+Nicholas Stephanopoulos
+Petr Sulc
+Ryan J. Trovitch
+Wade D. Van Horn
+Rebekka M. Wachter
+Xu Wang
+Peter Williams
+George H. Wolf
+Neal W. Woodbury
+Hao Yan
+Jeffery L. Yarger
+
+Brown University
+Amit Basu
+Ou Chen
+Vicki L. Colvin
+Sarah Delaney
+Gerald J. Diebold
+Eunsuk Kim
+Jerome R. Robinson
+Christoph G. Rose-Petruck
+Brenda M. Rubenstein
+Jason K. Sello
+Christopher T. Seto
+Richard M. Stratt
+Shouheng Sun
+Lai-Sheng Wang
+Li-Qiong Wang
+Peter M. Weber
+Paul G. Williard
+Matthew B. Zimmt
+
+The University of Georgia
+Wesley D. Allen
+I. Jonathan Amster
+Geert-Jan Boons
+Gary E. Douberly
+Michael A. Duncan
+Eric M. Ferreira
+Amanda Frossard
+Todd C. Harrop
+Michael K. Johnson
+Charles Kutal
+Jason Locklin
+George F. Majetich
+Sergiy Minko
+Richard Morrison
+Robert S. Phillips
+Vladimir V. Popik
+Melanie A. R. Reber
+Gregory H. Robinson
+Tina T. Salguero
+Henry F. Schaefer
+Robert A. Scott
+Geoffrey D. Smith
+John L. Stickney
+Jeffrey L. Urbauer
+Steven E. Wheeler
+Jin Xie
+
+Boston University
+Karen N. Allen
+Aaron B. Beeler
+Ksenia B. Bravaya
+John P. Caradonna
+David F. Coker
+Qiang Cui
+Dan Dill
+Linda Helen Doerrer
+Sean J. Elliott
+Rosina M. Georgiadis
+Mark W. Grinstaff
+Malika Jeffries-EL
+Masha Kamenetska
+Tom Keyes
+Xi Ling
+Pinghua Liu
+James S. Panek
+Deborah L. Perlstein
+John A. Porco
+Bjorn M. Reinhard
+Scott E. Schaus
+John K. Snyder
+John E. Straub
+Thomas D. Tullius
+Arturo J. Vegas
+Adrian Whitty
+Chen Yang
+Lawrence D. Ziegler
+
+University of Oregon
+Shannon W. Boettcher
+Carl K. Brozek
+Jeffrey A. Cina
+Amanda K. Cook
+Vickie J. De Rose
+Kenneth M. Doxsee
+Marina G. Guenza
+Michael M. Haley
+Scott D. Hansen
+Michael Harms
+Diane K. Hawley
+Christopher H. Hendon
+James E. Hutchison
+Ramesh Jasti
+Darren W. Johnson
+David C. Johnson
+Michael E. Kellman
+Mark C. Lonergan
+Andrew H. Marcus
+George V. Nazin
+Brad J. Nolen
+Catherine J. Page
+Michael D. Pluth
+Kenneth E. Prehoda
+James S. Prell
+Geraldine L. Richmond
+Tom H. Stevens
+David R. Tyler
+Peter H. von Hippel
+Julia R. Widom
+Cathy Y. Wong
+
+University of Delaware
+Brian J. Bahnson
+Thomas P. Beebe
+Eric D. Bloch
+Svilen Bobev
+Karl S. Booksh
+Steven D. Brown
+John L. Burmeister
+William J. Chain
+Junghuei Chen
+Douglas J. Doren
+Cecil Dybowski
+Joseph M. Fox
+Catherine L. Grimes
+Lars Gundlach
+Murray V. Johnston
+John T. Koh
+Edward Lyman
+Sharon L. Neal
+John T. Newberg
+Sandeep Patel
+Juan R. Perilla
+Tatyana Polenova
+Douglas P. Ridge
+Charles G. Riordan
+Joel Rosenthal
+Sharon Rozovsky
+Kathryn C. Scantlebury
+Karl Schmitz
+Andrew V. Teplyakov
+Klaus H. Theopold
+Colin Thorpe
+Donald A. Watson
+Mary P. Watson
+Zhihao Zhuang
+Neal J. Zondlo
+
+University of Notre Dame
+Brandon L. Ashfeld
+Brian M. Baker
+Brian S. J. Blagg
+Paul W. Bohn
+Seth N. Brown
+Jessica A. Brown
+Jon P. Camden
+Ian Carmichael
+Francis J. Castellino
+Patricia L. Clark
+Steven A. Corcelli
+Norman J. Dovichi
+Haifeng Gao
+J. Daniel Gezelter
+Holly V. Goodson
+Gregory V. Hartland
+Paul Helquist
+Paul W. Huber
+Vlad M. Iluc
+Prashant V. Kamat
+S. Alex Kandel
+Masaru Kuno
+A. Graham Lappin
+Marya Lieberman
+Laurie E. Littlepage
+Christian Melander
+Shahriar Mobashery
+Jeffrey W. Peng
+Anthony S. Serianni
+Arnaldo L. Serrano
+Slavi C. Sevov
+Bradley D. Smith
+M. Sharon Stack
+Richard E. Taylor
+Emily Y. Tsui
+Rebecca J. Whelan
+Katharine A. White
+Olaf Wiest
+
+University of California, Riverside
+Roya Bahreini
+Christopher J. Bardeen
+Ludwig Bartels
+Gregory Beran
+Chia-En A. Chang
+Quan Cheng
+Eric L. Chronister
+Matthew P. Conley
+James F. Davies
+Richard J. Debus
+Pingyung Feng
+Boniface P.T. Fokwa
+Joseph C. Genereux
+W. Hill Harman
+Richard J. Hooley
+De-en Jiang
+Ryan R. Julian
+Kevin G.M. Kou
+Cynthia K. Larive
+Catharine H. Larsen
+Vincent Lavallo
+Michael J. Marsella
+David B.C. Martin 
+Jocelyn G. Millar
+Leonard J. Mueller
+Mihri Ozkan
+Maurizio Pellecchia
+Michael C. Pirrung
+Richard R. Schrock
+Christopher Switzer
+Ming Lee Tang
+Kathryn E. Uhrich
+Valentine I. Vullev
+Yinsheng Wang
+Min Xue
+Yadong Yin
+Francisco Zaera
+Jingsong Zhang
+Haofei Zhang
+Wenwan Zhong
+
+Stony Brook University
+Thomas K. Allison
+Katherine B. Aubrecht
+Surita R. Bhatia
+Elizabeth M. Boon
+Eszter Boros
+Isaac S. Carrico
+Karena W. Chapman
+Melanie Chiu
+Ken A. Dill
+Dale G. Drueckhammer
+Jarrod B. French
+Nancy S. Goroff
+Robert B. Grubbs
+Benjamin S. Hsiao
+Jiangyong Jia
+Christopher J. Johnson
+Francis Johnson
+Peter Khalifah
+Stephen A. Koch
+Roy A. Lacey
+Scott T. Laughlin
+Joseph W. Lauher
+Erwin London
+Andreas Mayr
+Ming-Yu Ngai
+Iwao Ojima
+John B. Parise
+Kathlyn A. Parker
+Daniel P. Raleigh
+Jonathan G. Rudick
+Gregory Rushton
+Nicole S. Sampson
+Orlando D. Scharer
+Trevor J. Sears
+Carlos Simmerling
+Esther S. Takeuchi
+Kenneth J. Takeuchi
+Peter J. Tonge
+Jin Wang
+Michael G. White
+Stanislaus S. Wong
+
+Brandeis University
+Li Deng
+Irving R. Epstein
+Rebecca L. M. Gieseking
+Grace D. Han
+Lizbeth Hedstrom
+Judith Herzfeld
+Isaac J. Krauss
+Thomas C. Pochapsky
+Dagmar Ringe
+Klaus Schmidt-Rohr
+Barry B. Snider
+Bing Xu
+
+Dartmouth College
+Ivan Aprahamian
+Joseph J. BelBruno
+Robert S. Cantor
+Robert Ditchfield
+David S. Gluck
+Gordon Wayne Gribble
+Peter Alan Jacobi
+Chenfeng Ke
+F. Jon Kull
+Jane E. G. Lipson
+Glenn C. Micalizio
+Dale F. Mierke
+Katherine A. Mirica
+Ekaterina V. Pletneva
+Michael J. Ragusa
+Dean E. Wilcox
+John Sterling Winn
+Jimmy Wu
+
+University of Iowa
+Mark A. Arnold
+Nicole M. Becker
+Ned B. Bowden
+Christopher M. Cheatum
+Renee S. Cole
+Scott R. Daly
+Tori Z. Forbes
+Gregory K. Friestad
+M. Lei Geng
+Edward G. Gillan
+James B. Gloer
+Amanda J. Haes
+Amnon Kohen
+Johna Leddy
+Leonard R. MacGillivray
+Claudio J. Margulis
+Sara E. Mason
+Louis Messerle
+F. Christopher Pigge
+Scott K. Shaw
+James J. Shepherd
+Gary W. Small
+Elizabeth A. Stone
+Alexei V. Tivanski
+David F. Wiemer
+
+Virginia Polytechnic Institute and State University
+Paul R. Carlier
+T. Daniel Crawford
+Paul A. Deck
+Harry C. Dorn
+Alan R. Esker
+Felicia A. Etzkorn
+Richard D. Gandour
+Harry W. Gibson
+Tijana Z. Grove
+Jatinder S. Josan
+David G. I. Kingston
+Feng Lin
+Guoliang Liu
+Gary L. Long
+Timothy E. Long
+Andrew N. Lowell
+Louis A. Madsen
+John B. Matson
+Nicholas J. Mayhall
+Joseph S. Merola
+Robert B. Moore
+Amanda J. Morris
+John R. Morris
+Judy S. Riffle
+Webster L. Santos
+Michael D. Schulz
+J. M. Tanko
+Brian M. Tissue
+Diego Troya
+Edward F. Valeev
+Gordon T. Yee
+
+Florida State University
+Igor V. Alabugin
+Thomas E. Albrecht-Schmitt
+Christian Bleiholder
+Timothy A. Cross
+Naresh S. Dalal
+A. Eugene DePrince
+James H. Frederich
+Kenneth A. Goldsby
+Kenneth Hanson
+Edwin F. Hilinski
+Yan-Yan Hu
+Justin G. Kennemur
+Susan E. Latturner
+Hong Li
+Timothy M. Logan
+Biwu Ma
+Alan G. Marshall
+Hedi Mattousi
+Brian G. Miller
+Lea Nienhaus
+Michael G. Roper
+Jack Saltiel
+Qing-Xiang Sang
+Joseph B. Schlenoff
+Michael Shatruk
+Robert Silvers
+Joel M. Smith
+Scott M. Stagg
+Oliver Steinbock
+Albert E. Stiegman
+Geoffrey F. Strouse
+Wei Yang
+Lei Zhu
+
+Rutgers University-New Brunswick
+Edward Arnold
+Teddy Asefa
+Jean Baum
+Robert S. Boikess
+John G. Brennan
+Kenneth J. Breslauer
+Stephen K. Burley
+David A. Case
+Edward W. Castner, Jr.
+G. Charles Dismukes
+Richard Ebright
+Paul G. Falkowski
+Eric Garfunkel
+Alan S. Goldman
+Martha Greenblatt
+Gene Hall
+Robert Hayes
+Gregory F. Herzog
+B. Jane Hinch
+Enver Cagri Izgu
+Leslie S. Jimenez
+Roger A. Jones
+Sagar D. Khare
+Spencer Knapp
+Joachim Kohn 
+Jeehiun Katherine Lee
+Ki-Bum Lee
+Jing Li
+Mark C. Lipke
+Andrew J. Nieuwkoop
+Deirdre M. O’Carroll
+Wilma K. Olson
+Laurence S. Romsted
+Heinz D. Roth
+John W. Taylor
+Kate M. Waldie
+Lu Wang
+Ralf Warmuth
+Lawrence J. Williams
+Darrin M. York
+Jianyuan Zhang
+
+Rensselaer Polytechnic Institute
+Wilfredo Colon
+Chulsung Bae
+Ronald A. Bailey
+Curt Breneman
+Peter Henry Dinolfo
+Richard A. Gross
+Gerald M. Korenowski
+K. V. Lakshmi
+Robert J. Linhardt
+Linda B. McGown
+Chang Y. Ryu
+Jacob T. Shelley
+Xing Wang
+
+Case Western Reserve University
+Clemens Burda
+Carlos E. Crespo-Hernandez
+Thomas G. Gray
+Fu-Sen Liang
+Irene Nga Wing Lee
+Anthony J. Pearson
+Emily B. Pentzer
+John D. Protasiewicz
+Robert G. Salomon
+Anna C. Samia
+Genevieve Sauve
+Daniel A. Scherson
+Gregory P. Tochtrop
+Blanton S. Tolbert
+Michael G. Zagorski
+
+Tufts University
+Clay S. Bennett
+Luke M. Davis
+Terry E. Haas
+Jonathan E. Kenny
+Samuel P. Kounaves
+Joshua A. Kritzer
+Krishna Kumar
+Yu-Shan Lin
+Charles R. Mace
+Albert Robbat Jr.
+Elena Rybak-Akimova
+Rebecca A. Scheck
+Mary Jane Shultz
+Robert D. Stolow
+Charles E. Sykes
+Samuel W. Thomas III
+Arthur L. Utz
+
+University of Kansas
+Mikhail V. Barybin
+David R. Benson
+Cindy L. Berrie
+James D. Blakemore
+Kristin Bowman-James
+Marco Caricato
+Michael D. Clift
+Heather Desaire
+Robert C. Dunn
+Christopher G. Elles
+Paul R. Hanson
+Mei He
+Timothy A. Jackson
+Carey K. Johnson
+Michael A. Johnson
+Krzysztof Kuczera
+Brian B. Laird
+Susan M. Lunte
+Helena C. Malinakova
+Minae Mure
+Michael Rubin
+Steven A. Soper
+Ward H. Thompson
+Jon A. Tunge
+David D. Weis
+Yong Zeng
+
+University of Illinois at Chicago
+Leslie N. Aldrich
+Laura L. Anderson
+TJ Augustine
+Jordi Cabana
+Wonhwa Cho
+Ginevra A. Clark
+Stephanie M. Cologna
+Stephen G. DiMagno
+Tom G. Driver
+Leslie Wo-Mei Fung
+Vladimir Gevorgyan
+Ksenija D. Glusac
+Luke Hanley
+Ying Hu
+Nan Jiang
+Petr Kral
+Daesung Lee
+Justin L. Lorieau
+Neal P. Mankad
+Lawrence W. Miller
+Justin T. Mohr
+Scott Shippy
+Preston T. Snee
+Mike Stieff
+Michael Trenary
+Duncan Wardrop
+Donald J. Wink
+Xiaojing Yang
+Huan-Xiang Zhou
+
+Wayne State University
+Yong-Hoon Ahn
+Matthew J. Allen
+Ashok S. Bhagwat
+Stephanie L. Brock
+Jin K. Cha
+Eduard Y. Chekmenev
+Vladimir Chernyak
+Christine S. Chow
+David Crich
+Charlie Fehl
+Andrew L. Feig
+Stanislav Groysman
+Tamara L. Hendrickson
+Jeremy J. Kodanko
+Wen Li
+Thomas H. Linz
+Zhenfei Liu
+Long Luo
+Hien M. Nguyen
+Mary Kay Pflum
+Colin F. Poole
+Federico A. Rabuffetti
+Mary T. Rodgers
+Aaron S. Rury
+John SantaLucia Jr.
+H. Bernhard Schlegel
+Jennifer L. Stockdill
+Sarah Trimpin
+Claudio N. Verani
+Charles H. Winter
+Regina Zibuck
+
+University of California, Santa Cruz
+Alexander L. Ayzner
+Ilan Benjamin
+Rebecca Braslau
+Shaowei Chen
+Olof Einarsdottir
+Aura Alegra Eroy-Reveles
+Ted R. Holman
+Timothy C. Johnstone
+David S. Kliger
+Yat Li
+R. Scott Lokey
+John B. MacMillan
+Pradip K. Mascharak
+Glenn L. Millhauser
+Scott R. J. Oliver
+Carrie L. Partch
+Yuan Ping
+Jevgenij A. Raskatov
+Seth M. Rubin
+William G. Scott
+Nikolaos G. Sgourakis
+Bakthan Singaram
+Michael D. Stone
+Jin Zhang
+
+University at Buffalo, State university of New York
+Diana S. Aga
+Alexey V. Akimov
+G. Ekin Atilla-Gokcumen
+Jim D. Atwood
+Jochen Autschbach
+Jason B. Benedict
+Frank V. Bright
+Sherry R. Chemler
+Melvyn R. Churchill
+Luis A. Colon
+Timothy R. Cook
+Michael R. Detty
+Steven T. Diver
+Joseph A. Gardella Jr.
+Bing Gong
+Jerome B. Keister
+David C. Lacy
+Qing Lin
+Janet R. Morrow
+Andrew S. Murkin
+Paras N. Prasad
+Steven J. Ray
+John P. Richard
+Javid Rzayev
+Thomas Szyperski
+Martin Trebbin
+Luis Velarde
+David F. Watson
+Troy D. Wood
+Eva Zurek
+
+Rutgers University-Newark Campus
+Stacey E. Brenner-Moyer
+Elena Galoppini
+Huixin He
+Philip Huskey
+Frieder Jakle
+Frank Jordan
+Roger A. Lalancette
+Jenny V. Lockard
+Richard Mendelsohn
+Michele Pavanello
+Piotr Piotrowiak
+Demyan E. Prokopchuk
+John B. Sheridan
+Michal Szostak
+Fei Zhang
+
+Oregon State University
+Chris M. Beaudry
+Paul R. Blakemore
+Sean M. Burrows
+Rich G. Carter
+Paul Ha-Yeon Cheong
+Chong Fang
+Kevin P. Gable
+Xiulei Ji
+Doug A. Keszler
+Dipankar Koley
+Wei Kong
+Michael M. Lerner
+Sandra Loesgen
+Claudia S. Maier
+May Nyman
+Vincent T. Remcho
+S. L. Massey Simonich
+Mas A. Subramanian
+
+University of Maryland, Baltimore
+Mark A. Allen
+Songon An
+Bradley R. Arnold
+Chengpeng Chen
+Brian M. Cullum
+Marie C. Daniel
+James C. Fishbein
+Elsa D. Garcin
+Christopher D. Geddes
+Lisa A. Kelly
+Minjoung Kyoung
+William LaCourse
+Joel F. Liebman
+Marcin Ptaszek
+Zeev Rosenzweig
+Katherine L. Seley-Radtke
+Aaron T. Smith
+Paul J. Smith
+Michael F. Summers
+
+University of Nebraska Lincoln
+David B. Berkowitz
+C. L. Cheung
+Eric D. Dodds
+Liangcheng Du
+Patrick H. Dussault
+Mark A. Griep
+Jiantao Guo
+David S. Hage
+Gerard S. Harbison
+Rebecca Y. Lai
+Marjorie A. Langell
+Hui Li
+Alena Moon
+Stephen A. Morin
+Lawrence J. Parkhust
+Robert Powers
+Andrzej Rajca
+Jody Redepenning
+Alexander Sinitskii
+Marilyne Stains
+Cliff I. Stains
+James M. Takacs
+Xiao Cheng Zeng
+Jian Zhang
+
+Northeastern University
+Jeffrey N. Agar
+Penny J. Beuning
+Raymond G. Booth
+Heather A. Clark
+Leila F. Deravi
+John R. Engen
+Thomas Gilbert
+William S. Hancock
+Alexander R. Ivanov
+Rein U. Kirss
+Carolyn W. T. Lee-Parsons
+Steven A. Lopez
+Patricia Mabrouk
+Lee Makowski
+Alexandros Makriyannis
+Roman Manetsch
+Carla Mattos
+Sanjeev Mukerjee
+George A. O’Doherty
+Kay D. Onan
+Mary Jo Ondrechen
+Michael P. Pollastri
+Eugene S. Smotkin
+Ke Zhang
+Zhaohui Sunny Zhou
+
+University of Connecticut
+Douglas H. Adamson
+Alfredo M/ Angeles-Boza
+Alexadru D. Asandei
+William F. Bailey
+Ashis K. Basu
+Christian Bruckner
+Jose A. Gascon
+Jie He
+Amy R. Howell
+Michael T. Hren
+Rajeswari M. Kasi
+Challa V. Kumar
+Nicholas E. Leadbeater
+Yao Lin
+Tomoyasu Mani
+Fotios Papadimitrakopoulos
+Mark W. Peczuh
+E. M. Pinkhassik
+Rebecca C. Quardokus
+Jessica L. Rouge
+James F. Rusling
+Thomas A.P. Seery
+Gregory A. Sotzing
+Nina Stein
+Steven L. Suib
+Gael Ung
+Xudong Yao
+Jing Zhao
+
+Louisiana State University
+Les G. Butler
+Matthew B. Chambers
+Bin Chen
+Michael L. Cherry
+Robert L. Cook
+William E. Crowe
+Randolph A. Duran
+Noemie Elgrishi
+Jayne C. Garno
+S. Doug Gilman
+Louis H. Haber
+John B. Hopkins
+Rendy Kartika
+Revati Kumar
+Daniel G. Kuroda
+Semin Lee
+Kenneth Lopata
+Megan A. Macnaughtan
+Luigi G. Marzilli
+Andrew W. Maverick
+Robin L. McCarley
+Kermit K. Murray
+John A. Pojman
+Justin R. Ragains
+Mario Rivera
+Gerald J. Schneider
+Kevin M. Smith
+David Spivak
+George G. Stanley
+Carol M. Taylor
+M. Graca H. Vicente
+Tuo Wang
+Isiah Warner
+Weiwei Xie
+Donghui Zhang
+
+Kansas State University
+Christer B. Aakeroy
+Christin M. Aikens
+Santosh Aryal
+Stefan H. Bossmann
+Victor Chikan
+Chris T. Culbertson
+Peter K. Dorhout
+Tendai Gadzikwa
+Daniel A. Higgins
+Mark D. Hollingsworth
+Duy H. Hua
+Takashi Ito
+Ryszard Jankowiak
+Jun Li
+Ping Li
+Ryan J. Rafferty
+Paul E. Smith
+Peter E. Sues
+
+University of Missouri-Columbia
+Jerry L. Atwood
+Gary A. Baker
+Sheila N. Baker
+Wesley H. Bernskoetter
+John D. Brockman
+Kurt R. Brorsen
+Kent S. Gates
+Timothy E. Glass
+C. Michael Greenlief
+Michael Harmata
+Silvia S. Jurisson
+Steven W. Keller
+Mark W. Lee Jr.
+Susan Z. Lever
+J. David Robertson
+Tommy Sewell
+Arthur G. Suits
+Justin R. Walensky
+Matthias Young
+
+Baylor University
+Patrick J. Farmer
+Darrin J. Bellert
+C. Kevin Chambliss
+Elyssia S. Gallagher 
+Neil K. Garg
+Stephen L. Gipson
+Jesse W. Jones
+Robert E. Kane
+Kevin K. Klausmeyer
+Carlos E. Manzanares
+Caleb D. Martin
+Jung Hyun Min
+Kevin G. Pinney
+Daniel Romo
+Bryan F. Shaw
+Kevin L. Shuford
+Touradj Solouki
+Michael A. Trakselis
+Mary Lynn Trawick
+John L. Wood
+
+Washington State University
+Cliff E. Berkman
+James A. Brozik
+Aurora E. Clark
+Sue B. Clark
+Brian H. Clowers
+Phil Garner
+Xiaofeng Guo
+Zachariah M. Heiden
+K. W. Hipps
+Jeff P. Jones
+ChulHee Kang
+David Y. Lee
+Alexander D. Q. Li
+Rock J. Mancini
+Ursula Mazur
+Kirk A. Peterson
+Peter T. A. Reilly
+Rob C. Ronald
+Nathalie A. Wall
+Ming Xian
+Choong-Shik Yoo
+Qiang Zhang
+
+Auburn University
+Rik Blumenthal
+Ming Chen
+Evert C. Duin
+Christopher J. Easley
+Holly R. Ellis
+Byron H. Farnum
+Christian R. Goldsmith
+Doug C. Goodwin
+Anne E. V. Gorden
+John D. Gorden
+Jordan Harshman
+Rashad Karimov
+Steven O. Mansoorabadi
+Bradley L. Merner
+Evangelos Miliordos
+G. Mills
+J. V. Ortiz
+Konrad Patkowski
+Monica Raj
+Stewart W. Schneller
+Curtis Shannon
+David M. Stanbury
+Wei Zhan
+
+University of Alabama
+Jared M. Allred
+Martin G. Bakker
+Silas C. Blackstock
+Marco Bonizzoni
+Michael K. Bowman
+Carolyn J. Cassady
+Alice J. DeSimone
+David A. Dixon
+Jack A. Dunkle
+Patrick A. Frantom
+Ayanjeet Ghosh
+Arunava Gupta
+Michael P. Jennings
+Diana Leung
+Yinghui Liu
+Robert M. Metzger
+Shanlin Pan
+Elizabeth T. Papish
+Paul A. Rupar
+Kevin H. Shaughnessy
+Timothy S. Snowden
+Shane C. Street
+Gregory Szulczewski
+Matthew K. Thompson
+Russell Timkovich
+John B. Vincent
+Stephen Woski
+
+University of Houston
+Steven Baldelli
+Eric R. Bittner
+Jakoah Brgoch
+Maurice S. Brookhart
+Chengzhi Cai
+Edwin M. Carrasquillo
+Tai-Yen Chen
+Don M. Coltart
+Robert J. Comito
+Roman S. Czernuszewicz
+Olafs Daugulis
+Loi H. Do
+Russell Geanangel
+Scott R. Gilbertson
+Arnold Guloy
+P. Shiv Halasyamani
+Eva M. Harth
+David M. Hoffman
+Allan J. Jacobson
+Karl M. Kadish
+Sarah C. Larsen
+T. Randall Lee
+Vassiliy Lubchenko
+Jeremy A. May
+Ognjen S. Miljanic
+Mark A. Smith
+Thomas S. Teets
+Judy I. Wu
+Shoujun Xu
+Ding-Shyue Yang
+Melissa L. Zastrow
+
+University of South Carolina
+Richard D. Adams
+S. Michael Angel
+Brian C. Benicewicz
+Mark A. Berg
+Donna A. Chen
+Maksymilian Chruszcz
+John L. Ferry
+Sophya Garashchuk
+Andrew B. Greytak
+Parastoo Hashemi
+Mythreye Karthikeyan
+John J. Lavigne
+Jie Li
+Thomas M. Makris
+Stephen L. Morgan
+Michael L. Myrick
+Caryn E. Outten
+F. Wayne Outten
+Dmitry V. Peryshkov
+Vitaly A. Rassolov
+Daniel L. Reger
+Susan D. Richardson
+Timothy J. Shaw
+Ken D. Shimizu
+Linda S. Shimizu
+Natalia B. Shustova
+Morgan Stefik
+Chuanbing Tang
+Aaron K. Vannucci
+Thomas Vogt
+Hui Wang
+Qian Wang
+Sheryl L. Wiskur
+Hans-Conrad zur Loye
+
+Georgetown University
+Angel C. de Dios
+Nagarjuna Gavvalapalli
+Jong-in Hahm
+K. Travis Holman
+Toshiko Ichiye
+Kaveh Jorabchi
+Miklos Kertesz
+Karah E. Knope
+Rodrigo A. Maillard
+Steven J. Metallo
+Paul D. Roepe
+Sarah L. Stoll
+Jennifer A. Swift
+YuYe J. Tong
+Timothy H. Warren
+Richard G. Weiss
+Christian Wolf
+
+Colorado School of Mines
+Mark E. Eberhart
+Tom Gennett
+Mark P. Jensen
+Daniel M. Knauss
+Matthew C. Posewitz
+James F. Ranville
+Ryan M. RIchards
+Bettina M. Voelker
+Kim R. Williams
+David T. Wu
+Stephen G. Boyes
+Judith Klein-Seetharaman
+Alan Sellinger
+Jenifer C. Shafer
+Brian G. Trewyn
+Dylan W. Domaille
+Christine N. Morrison
+Svitlana Pylypenko
+Shubham Vyas
+
+Montana State University
+Brian Bothner
+Joan Broderick
+Patrik R. Callis
+Mary Cloninger
+Matthew J. Cook
+Valerie Copie
+Ed Dratz
+Jennifer DuBois
+Erik M. Grumstrup
+Roland Hatzenpichler
+C. Lawrence
+Thomas Livinghouse
+Timothy Minton
+Michael T. Mock
+Sharon R. Neufeldt
+David Singel
+Nick P Stadie
+Robert Szilagyi
+Martin Teintze
+Rob Walker
+
+Clemson University
+Jeffrey N. Anker
+Dev P. Arya
+Julia L. Brumaghim
+Leah B. Casabianca
+George Chumanov
+Stephen Creager
+Brian N. Dominy
+Carlos D. Garcia
+Shiou-Jyn Hwu
+Arkady L. Kholodenko
+Joseph W. Kolis
+R. Kenneth Marcus
+Jason D. McNeill
+William T. Pennington
+Dvora Perahia
+Sourav Saha
+Rhett C. Smith
+Steven J. Stuart
+Ya-Ping Sun
+Andrew G. Tennyson
+Joseph S. Thrasher
+Daniel C. Whitehead
+
+Syracuse University
+Timothy M. Korter
+Mark S. Braiman
+Carlos A. Castaneda
+Joseph Chaiken
+Arindam Chakraborty
+John D. Chisholm
+Robert P. Doyle
+John M. Franck
+James L. Hougland
+Bruce S. Hudson
+James Kallmerten
+Ivan V. Korendovych
+Yan-Yeung Luk
+Davoud Mozhdehi
+Olga V. Makhlynets
+Matthew M. Maye
+Karin Ruhlandt
+James T. Spencer
+Michael B. Sponsler
+Rachel C. Steinhardt
+Nancy I. Totah
+Weiwei Zheng
+Jon Zubieta
+
+Temple University
+Rodrigo B. Andrade
+Eric Borguet
+Hai-Lung Dai
+Graham E. Dobereiner
+Michael L. Klein
+Robert J. Levis
+Ronald M. Levy
+Carol M. Manhart
+Spiridoula Matsika
+Christian E. Schafmeister
+Scott McN. Sieburth
+Francis C. Spano
+Robert J. Stanley
+Daniel R. Strongin
+Yugang Sun
+Ann M. Valentine
+Vincent A. Voelz
+Rongsheng E. Wang
+Bradford B. Wayland
+Sarah E. Wengryniuk
+Katherine A. Willets
+Stephanie L. Wunder
+Michael J. Zdilla
+
+University of Tennessee, Knoxville
+Constance B. Bailey
+Christopher A. Baker
+Craig E. Barnes
+Michael D. Best
+Jonathan N. Brantley
+Tessa R. Calhoun
+Shawn R. Campagna
+Ampofo K. Darko
+Thanh D. Do
+Charles S. Feigerle
+Robert J. Hinde
+David M. Jenkins
+S. M. Kilbey
+John Z. Larese
+Brian K. Long
+Janice L. Musfeldt
+Sharani Roy
+George K. Schweitzer
+Bhavya Sharma
+Alexei P. Sokolov
+Konstantinos D. Vogiatzis
+Ziling Xue
+Bin Zhao
+
+The Doctorate-Granting Institution of the City University of New York
+Daniel L. Akins
+Valeria Balogh-Nair
+Teresa J. Bandosz
+Ronald L. Birke
+Zimei Bu
+David H. Calhoun
+Amedee Des Georges
+Dorothy M. Eisele
+Kevin H. Gardner
+Ranajeet Ghose
+Michael E. Green
+Edward G. Hohenstein
+Urs Jans
+David Jeruzalmi
+George John
+Daniel A. Keedy
+Reza Khayat
+Glen Kowach
+Mahesh K. Lakshman
+Themis Lazaridis
+John R. Lombardi
+Stephen O’Brien
+Kevin Ryan
+Issa I. Salame
+Simon A. Simms
+Ruth E. Stark
+Mark L. Steinberg
+Maria C. Tomargo
+Barbara Zajc
+
+Brigham Young University
+Joshua L. Andersen
+Merritt B. Andrus
+Matthew C. Asplund
+Daniel E. Austin
+Steven L. Castle
+Kenneth A. Christensen
+David V. Dearden
+Daniel H. Ess
+Steven R. Goates
+Steven W. Graves
+Jaron C. Hansen
+Roger G. Harrison
+Jeremy A. Johnson
+Ryan T. Kelly
+Matthew R. Linford
+David J. Michaelis
+James D. Moody
+James E. Patterson
+Wally F. Paxton
+Matt A. Peterson
+John C. Price
+Joshua L. Price
+Paul B. Savage
+Eric T. Sevy
+Kara J. Stowers
+Pam M. Van Ry
+Richard K. Watt
+Barry M. WIllardson
+Brian F. Woodfield
+Adam T. Woolley
+
+University of Oklahoma
+Michael T. Ashby
+Robyn A. Biggs
+Christina R. Bourne
+Anthony W.G. Burgett
+Robert H. Cichewicz
+Adam S. Duerfeldt
+Daniel T. Glatzhofer
+Ronald L. Halterman
+Ulrich H.E. Hansmann
+Shaorong Liu
+Chuanbin Mao
+Laura-Isobel McCall
+Mark C. Morvant
+Donna J. Nelson
+Rakhi Rajan
+Charles V. Rice
+George B. Richter-Addo
+Valentin V. Rybenkov
+Bayrammurad Saparov
+Susan J. Schroeder
+Yihan Shao
+Indrajeet Sharma
+Paul A. Sims
+Shanteri Singh
+Robert Thomson
+Ann H. West
+Robert L. White
+Si Wu
+Zhibo Yang
+Wai Tak Yip
+Helen I. Zgurskaya

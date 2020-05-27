@@ -1,0 +1,102 @@
+﻿School Name                                                                       Faculty_number 
+California Institute of Technology                                                44    
+Stanford University                                                               25    
+Harvard University                                                                26    
+Massachusetts Institute of Technology                                             35    
+University of California, Berkeley                                                53    
+The Scripps Research Institute                                                    31    
+University of Illinois at Urbana-Champaign                                        37    
+Northwestern University                                                           41    
+Columbia University in the City of New York                                       25    
+Princeton University                                                              25    
+Cornell University                                                                29    
+Yale University                                                                   31    
+University of Wisconsin Madison                                                   51    
+University of Chicago                                                             36    
+University of Texas at Austin                                                     31    
+University of North Carolina at Chapel Hill                                       41    
+University of Michigan, Ann Arbor                                                 52    
+University of Pennsylvania                                                        38    
+Georgia Institute of Technology                                                   37    
+Pennsylvania State University                                                     39    
+University of California, Irvine                                                  44    
+University of California, San Diego                                               58    
+Johns Hopkins University                                                          21    
+University of Colorado at Boulder                                                 26    
+University of Washington, seattle                                                 39    
+University of Minnesota Twin Cities                                               39    
+Texas A and M University                                                          39    
+Purdue University                                                                 42    
+Ohio State University                                                             51    
+Emory University                                                                  21    
+Rice University                                                                   23    
+Duke University                                                                   25    
+University of Utah                                                                32    
+University of California, Santa Barbara                                           31    
+Indiana University                                                                38    
+University of California, Davis                                                   41    
+University of Pittsburgh                                                          36    
+Carnegie Mellon University                                                        21    
+Vanderbilt University                                                             22    
+Washington University in St. Louis                                                24    
+University of Maryland                                                            37    
+University of Arizona                                                             39    
+University of Florida                                                             40    
+Iowa State University                                                             27    
+University of Virginia                                                            29    
+University of Southern California                                                 33    
+Michigan State University                                                         40    
+Boston College                                                                    18    
+University of Rochester                                                           18    
+University of Massachusetts Amherst                                               22    
+New York University                                                               25    
+North Carolina State University                                                   28    
+Colorado State University                                                         30    
+Arizona State University                                                          57    
+Brown University                                                                  18    
+The University of Georgia                                                         26    
+Boston University                                                                 28    
+University of Oregon                                                              30    
+University of Delaware                                                            35    
+University of Notre Dame                                                          38    
+University of California, Riverside                                               39    
+Stony Brook University                                                            41    
+Brandeis University                                                               12    
+Dartmouth College                                                                 18    
+University of Iowa                                                                25    
+Virginia Polytechnic Institute and State University                               31    
+Florida State University                                                          33    
+Rutgers, The State University of New Jersey                                       40    
+Rensselaer Polytechnic Institute                                                  13    
+Case Western Reserve University                                                   15    
+Tufts University                                                                  17    
+University of Kansas                                                              26    
+University of Illinois at Chicago                                                 28    
+Wayne State University                                                            30    
+University of California, Santa Cruz                                              24    
+University at Buffalo, State university of New York                               30    
+Rutgers University-Newark Campus                                                  14    
+Oregon State University                                                           18    
+University of Maryland, Baltimore                                                 19    
+University of Nebraska Lincoln                                                    23    
+Northeastern University                                                           25    
+University of Connecticut                                                         27    
+Louisiana State University                                                        35    
+Kansas State University                                                           16    
+University of Missouri-Columbia                                                   19    
+Baylor University                                                                 20    
+Washington State University                                                       21    
+Auburn University                                                                 22    
+University of Alabama                                                             27    
+University of Houston                                                             31    
+University of South Carolina                                                      33    
+Georgetown University                                                             17    
+Colorado School of Mines                                                          19    
+Montana State University                                                          18    
+Clemson University                                                                21    
+Syracuse University                                                               22    
+Temple University                                                                 23    
+University of Tennessee, Knoxville                                                22    
+The Doctorate-Granting Institution of the City University of New York             27    
+Brigham Young University                                                          29    
+University of Oklahoma                                                            31    

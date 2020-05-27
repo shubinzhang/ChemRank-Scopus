@@ -1,0 +1,204 @@
+﻿School Name                                                                       Median_hindex 
+California Institute of Technology                                                48.0  
+Stanford University                                                               72    
+Harvard University                                                                56.0  
+Massachusetts Institute of Technology                                             48    
+University of California, Berkeley                                                59    
+The Scripps Research Institute                                                    52    
+University of Illinois at Urbana-Champaign                                        42    
+Northwestern University                                                           54    
+Columbia University in the City of New York                                       45    
+Princeton University                                                              60    
+Cornell University                                                                27    
+Yale University                                                                   49    
+University of Wisconsin Madison                                                   35    
+University of Chicago                                                             41.0  
+University of Texas at Austin                                                     46    
+University of North Carolina at Chapel Hill                                       36    
+University of Michigan, Ann Arbor                                                 33.0  
+University of Pennsylvania                                                        38.0  
+Georgia Institute of Technology                                                   32    
+Pennsylvania State University                                                     35    
+University of California, Irvine                                                  36.5  
+University of California, San Diego                                               31.5  
+Johns Hopkins University                                                          30    
+University of Colorado at Boulder                                                 35.0  
+University of Washington, seattle                                                 32    
+University of Minnesota Twin Cities                                               34    
+Texas A and M University                                                          36    
+Purdue University                                                                 32.0  
+Ohio State University                                                             24    
+Emory University                                                                  40    
+Rice University                                                                   43    
+Duke University                                                                   31    
+University of Utah                                                                33.5  
+University of California, Santa Barbara                                           52    
+Indiana University                                                                32.5  
+University of California, Davis                                                   36    
+University of Pittsburgh                                                          30.5  
+Carnegie Mellon University                                                        28    
+Vanderbilt University                                                             32.5  
+Washington University in St. Louis                                                28.5  
+University of Maryland                                                            32    
+University of Arizona                                                             28    
+University of Florida                                                             28.0  
+Iowa State University                                                             27    
+University of Virginia                                                            22    
+University of Southern California                                                 33    
+Michigan State University                                                         30.0  
+Boston College                                                                    34.5  
+University of Rochester                                                           29.0  
+University of Massachusetts Amherst                                               31.5  
+New York University                                                               34    
+North Carolina State University                                                   26.0  
+Colorado State University                                                         24.5  
+Arizona State University                                                          28    
+Brown University                                                                  22.0  
+The University of Georgia                                                         36.5  
+Boston University                                                                 30.5  
+University of Oregon                                                              23.5  
+University of Delaware                                                            24    
+University of Notre Dame                                                          24.5  
+University of California, Riverside                                               27    
+Stony Brook University                                                            34    
+Brandeis University                                                               48.5  
+Dartmouth College                                                                 23.0  
+University of Iowa                                                                23    
+Virginia Polytechnic Institute and State University                               25    
+Florida State University                                                          24    
+Rutgers, The State University of New Jersey                                       34.5  
+Rensselaer Polytechnic Institute                                                  21    
+Case Western Reserve University                                                   30    
+Tufts University                                                                  21    
+University of Kansas                                                              28.5  
+University of Illinois at Chicago                                                 23.0  
+Wayne State University                                                            23.5  
+University of California, Santa Cruz                                              26.0  
+University at Buffalo, State university of New York                               29.0  
+Rutgers University-Newark Campus                                                  30.5  
+Oregon State University                                                           28.0  
+University of Maryland, Baltimore                                                 20    
+University of Nebraska Lincoln                                                    26    
+Northeastern University                                                           23    
+University of Connecticut                                                         24    
+Louisiana State University                                                        23    
+Kansas State University                                                           23.5  
+University of Missouri-Columbia                                                   27    
+Baylor University                                                                 20.5  
+Washington State University                                                       22    
+Auburn University                                                                 16.0  
+University of Alabama                                                             19    
+University of Houston                                                             28    
+University of South Carolina                                                      28    
+Georgetown University                                                             28    
+Colorado School of Mines                                                          26    
+Montana State University                                                          25.5  
+Clemson University                                                                24    
+Syracuse University                                                               18.0  
+Temple University                                                                 25    
+University of Tennessee, Knoxville                                                19.0  
+The Doctorate-Granting Institution of the City University of New York             28    
+Brigham Young University                                                          22    
+University of Oklahoma                                                            19    
+School Name                                                                       Median_hindex 
+California Institute of Technology                                                8600.0 
+Stanford University                                                               19234 
+Harvard University                                                                11561.0 
+Massachusetts Institute of Technology                                             9225  
+University of California, Berkeley                                                11037 
+The Scripps Research Institute                                                    10071 
+University of Illinois at Urbana-Champaign                                        7984  
+Northwestern University                                                           11509 
+Columbia University in the City of New York                                       6733  
+Princeton University                                                              10868 
+Cornell University                                                                3708  
+Yale University                                                                   8144  
+University of Wisconsin Madison                                                   3779  
+University of Chicago                                                             5896.5 
+University of Texas at Austin                                                     7719  
+University of North Carolina at Chapel Hill                                       4943  
+University of Michigan, Ann Arbor                                                 3824.0 
+University of Pennsylvania                                                        5077.5 
+Georgia Institute of Technology                                                   4034  
+Pennsylvania State University                                                     4336  
+University of California, Irvine                                                  4961.5 
+University of California, San Diego                                               4591.5 
+Johns Hopkins University                                                          3847  
+University of Colorado at Boulder                                                 4585.0 
+University of Washington, seattle                                                 3476  
+University of Minnesota Twin Cities                                               3577  
+Texas A and M University                                                          4386  
+Purdue University                                                                 3634.5 
+Ohio State University                                                             2302  
+Emory University                                                                  4395  
+Rice University                                                                   5368  
+Duke University                                                                   3498  
+University of Utah                                                                3402.5 
+University of California, Santa Barbara                                           9347  
+Indiana University                                                                3881.0 
+University of California, Davis                                                   4158  
+University of Pittsburgh                                                          3315.0 
+Carnegie Mellon University                                                        3326  
+Vanderbilt University                                                             3508.0 
+Washington University in St. Louis                                                2875.5 
+University of Maryland                                                            4261  
+University of Arizona                                                             3204  
+University of Florida                                                             2688.0 
+Iowa State University                                                             2274  
+University of Virginia                                                            2524  
+University of Southern California                                                 4136  
+Michigan State University                                                         3424.0 
+Boston College                                                                    4930.0 
+University of Rochester                                                           2525.0 
+University of Massachusetts Amherst                                               2942.0 
+New York University                                                               4068  
+North Carolina State University                                                   2052.5 
+Colorado State University                                                         2660.5 
+Arizona State University                                                          2996  
+Brown University                                                                  1962.0 
+The University of Georgia                                                         4609.0 
+Boston University                                                                 3994.5 
+University of Oregon                                                              2646.0 
+University of Delaware                                                            2061  
+University of Notre Dame                                                          3047.0 
+University of California, Riverside                                               3479  
+Stony Brook University                                                            3885  
+Brandeis University                                                               8682.0 
+Dartmouth College                                                                 2019.5 
+University of Iowa                                                                1531  
+Virginia Polytechnic Institute and State University                               2499  
+Florida State University                                                          2860  
+Rutgers, The State University of New Jersey                                       3962.0 
+Rensselaer Polytechnic Institute                                                  2334  
+Case Western Reserve University                                                   3854  
+Tufts University                                                                  1775  
+University of Kansas                                                              2718.0 
+University of Illinois at Chicago                                                 1758.0 
+Wayne State University                                                            2197.5 
+University of California, Santa Cruz                                              2267.5 
+University at Buffalo, State university of New York                               2888.5 
+Rutgers University-Newark Campus                                                  3452.0 
+Oregon State University                                                           2353.5 
+University of Maryland, Baltimore                                                 2032  
+University of Nebraska Lincoln                                                    3161  
+Northeastern University                                                           2211  
+University of Connecticut                                                         2348  
+Louisiana State University                                                        2159  
+Kansas State University                                                           2424.5 
+University of Missouri-Columbia                                                   2436  
+Baylor University                                                                 1214.0 
+Washington State University                                                       1846  
+Auburn University                                                                 913.5 
+University of Alabama                                                             1241  
+University of Houston                                                             2871  
+University of South Carolina                                                      3439  
+Georgetown University                                                             2567  
+Colorado School of Mines                                                          3091  
+Montana State University                                                          2006.5 
+Clemson University                                                                2472  
+Syracuse University                                                               887.0 
+Temple University                                                                 2687  
+University of Tennessee, Knoxville                                                1654.5 
+The Doctorate-Granting Institution of the City University of New York             3154  
+Brigham Young University                                                          1908  
+University of Oklahoma                                                            1673  
