@@ -6,6 +6,7 @@ from elsapy.elssearch import ElsSearch
 from elsapy.elsprofile import ElsAuthor
 from build_school_dict import build_school_class
 
+
 class build_json_class(build_school_class):
     def __init__(self, apikey, db_fname):
         self.client = ElsClient(apikey)
