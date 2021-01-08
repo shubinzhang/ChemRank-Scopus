@@ -1,5 +1,5 @@
 # **Chemistry Department Publication Analysis in United States**
-A python module for collecting publication information of each faculty in top 101 chemistry department in United States (Based on the US News Graduate School Ranking in 2018 https://www.usnews.com/best-graduate-schools/top-science-schools/chemistry-rankings) using Scopus API (https://github.com/ElsevierDev/elsapy) and generating publication statistics for each chemistry department (e.g. Median values of faculties' H-index in each department, Median values of faculties' total publication in each department). Module includes:
+A python module for collecting publication information of each faculty in top 101 chemistry departments in United States (Based on the US News Graduate School Ranking in 2018 https://www.usnews.com/best-graduate-schools/top-science-schools/chemistry-rankings) using Scopus API (https://github.com/ElsevierDev/elsapy) and generating publication statistics for each chemistry department (e.g. Median values of faculties' H-index in each department, Median values of faculties' total publication in each department). Module includes:
 
 #### 1. Loading faculty list from "faculty_list.txt" saved in "data" folder. This list is compiled mannually and each name inside is checked.
 
